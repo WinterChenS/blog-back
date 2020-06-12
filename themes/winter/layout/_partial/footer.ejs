@@ -1,0 +1,12 @@
+<footer id="footer">
+  <% if (theme.sidebar === 'bottom'){ %>
+    <%- partial('_partial/sidebar') %>
+  <% } %>
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      <a href="http://winterchen.com" class="logo"><%= config.title %></a>
+      &copy; <%= date(new Date(), 'YYYY') %> <%= config.author || config.title %><br>
+        <span class="post-count"><a href="http://www.miitbeian.gov.cn/">浙ICP备17056942号</a></span>
+    </div>
+  </div>
+</footer>

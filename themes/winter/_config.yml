@@ -1,0 +1,59 @@
+# Header
+menu:
+  Home: http://winterchen.com
+  Photo: http://photo.winterchen.com
+  Blog: /
+  Archives: /archives
+  About: http://winterchen.com/about.html
+rss: 
+github: https://github.com/WinterChenS
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# Sidebar
+sidebar: left
+widgets:
+- category
+- archive
+- recent_posts
+- tag
+- tagcloud
+- links
+
+# Links
+links: 
+  Hexo: http://hexo.io
+
+# Miscellaneous
+google_analytics:
+favicon: http://img.winterchen.com/favicon.ico
+twitter:
+google_plus:
+fb_admins:
+fb_app_id:
+
+
+# changyan 广告太多，垃圾不用
+changyan:
+  enable: false
+  appid: cytlX2iPj
+  appkey: 9c01a4e288979c83f73ec6df46dccf29
+
+# Gitment
+# Introduction: https://imsun.net/posts/gitment-introduction/
+# You can get your Github ID from https://api.github.com/users/<Github username>
+gitment:
+  enable: true
+  mint: true # RECOMMEND, A mint on Gitment, to support count, language and proxy_gateway
+  count: true # Show comments count in post meta area
+  lazy: false # Comments lazy loading with a button
+  cleanly: false # Hide 'Powered by ...' on footer, and more
+  language: # Force language, or auto switch by theme
+  github_user: WinterChenS # MUST HAVE, Your Github ID
+  github_repo: WinterChenS.github.io # MUST HAVE, The repo you use to store Gitment comments
+  client_id: 615291aae291c012d414
+  client_secret: 479eec38f9adff0a5519059db6d4f8f48c7d963a
+  proxy_gateway: # Address of api proxy, See: https://github.com/aimingoo/intersect
+  redirect_protocol: # Protocol of redirect_uri with force_redirect_protocol when mint enabled
