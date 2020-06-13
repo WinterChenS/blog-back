@@ -7,7 +7,7 @@ tags: [算法]
 brief: [算法]
 reward: true
 categories: 算法
-cover: https://raw.githubusercontent.com/WinterChenS/imgrpo/master/alexander-popov-3InMDrsuYrk-unsplash.jpg
+cover: http://img.winterchen.com/20200613212353.png
 ---
 
 ### 题目描述
@@ -34,7 +34,7 @@ cover: https://raw.githubusercontent.com/WinterChenS/imgrpo/master/alexander-pop
 
 通过上面的思路，我们的问题转化为了给定一个数组，找出其中两个相加等于给定值， 这个问题是比较简单的， 我们只需要对数组进行排序，然后双指针解决即可。 加上我们需要外层遍历依次数组，因此总的时间复杂度应该是O(N^2)
 
-![](https://raw.githubusercontent.com/azl397985856/leetcode/master/assets/problems/15.3-sum.png)
+![](http://img.winterchen.com/20200613212421.png)
 
 ### 关键
 

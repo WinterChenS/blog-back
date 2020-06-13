@@ -7,38 +7,31 @@ tags: [摄影,人像]
 brief: [摄影]
 reward: true
 categories: 摄影
-cover: https://raw.githubusercontent.com/WinterChenS/imgrpo/master/blog/DSC_1389-%E7%BC%96%E8%BE%91-2.jpg
+cover: http://img.winterchen.com/20200613211344.png
 ---
 
 疫情还没有过去，宅在家里给老婆孩子拍了一组
 
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/master/blog/DSC_1389-%E7%BC%96%E8%BE%91.jpg)
+![](http://img.winterchen.com/20200613211421.png)
 
 
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/master/blog/DSC_1429-%E7%BC%96%E8%BE%91-2.jpg)
+![](http://img.winterchen.com/20200613211528.png)
 
 
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/master/blog/DSC_1424.jpg)
+![](http://img.winterchen.com/20200613211616.png)
+
+![](http://img.winterchen.com/20200613211737.png)
+
+![](http://img.winterchen.com/20200613211824.png)
 
 
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/master/blog/DSC_1417-%E7%BC%96%E8%BE%91.jpg)
+![](http://img.winterchen.com/20200613211914.png)
 
 
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/master/blog/DSC_1381-%E7%BC%96%E8%BE%91.jpg)
+![](http://img.winterchen.com/20200613212022.png)
 
 
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/master/blog/DSC_1367.jpg)
+![](http://img.winterchen.com/20200613212112.png)
 
 
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/master/blog/DSC_1339.jpg)
-
-
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/master/blog/DSC_1335.jpg)
-
-
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/master/blog/DSC_1319.jpg)
-
-
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/master/blog/DSC_1329.jpg)
-
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/master/blog/DSC_1431-%E7%BC%96%E8%BE%91.jpg)
+![](http://img.winterchen.com/20200613212306.png)

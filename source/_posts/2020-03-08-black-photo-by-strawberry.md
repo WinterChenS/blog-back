@@ -7,10 +7,10 @@ tags: [摄影,静物]
 brief: [摄影]
 reward: true
 categories: 摄影
-cover: https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200315134827.jpg
+cover: http://img.winterchen.com/20200613211130.png
 ---
 
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200315134856.jpg)
+![](http://img.winterchen.com/20200613211231.png)
 
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200315134910.jpg)
+![](http://img.winterchen.com/20200613211301.png)
 

@@ -7,12 +7,12 @@ tags: [docker,jenkins,DevOps]
 brief: [DevOps]
 reward: true
 categories: DevOps
-cover: https://raw.githubusercontent.com/WinterChenS/imgrpo/master/blog/tudor-baciu-vc3iVL_znJ8-unsplash.jpg
+cover: http://img.winterchen.com/20200613210613.png
 ---
 
 面对微服务越来越繁杂的开发和运维，自动化部署的出现无异于雪中送炭，今天就开始一步一步搭建自动化部署平台，基于Docker。
 
-![jenkins持续交付流程图](https://raw.githubusercontent.com/WinterChenS/imgrpo/master/blog/1586287-3f440db6467f6a69.png)
+![jenkins持续交付流程图](http://img.winterchen.com/20200613210704.png)
 
 
 本次搭建的前提；
@@ -95,7 +95,7 @@ docker run --name devops-registry -p 5000:5000 -v /opt/devdata/registry:/var/lib
 
 启动完jenkins后通过浏览器输入地址http://部署jenkins主机IP:端口
 
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/master/blog/20200314200743.png)
+![](http://img.winterchen.com/20200613210733.png)
 
 根据提示从输入administrator password 或者可以通过启动日志
 
@@ -105,25 +105,25 @@ docker logs devops-jenkins
 
 查看这个password 如：
 
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/master/blog/20200314200909.png)
+![](http://img.winterchen.com/20200613210753.png)
 
 选择安装插件方式，这里我是默认第一个
 
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/master/blog/20200314200947.png)
+![](http://img.winterchen.com/20200613210813.png)
 
 进入插件安装界面，连网等待插件安装
 
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/master/blog/20200314201017.png)
+![](http://img.winterchen.com/20200613210832.png)
 
 安装完插件后，进入创建管理员界面
 
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/master/blog/20200314201051.png)
+![](http://img.winterchen.com/20200613210851.png)
 
 输入完管理员账号后，点击continue as admin 进入管理界面点击系统管理-插件管理中安装docker构建插件和角色管理插件
-![](https://github.com/WinterChenS/imgrpo/blob/develop/blog/1586287-9f67e8fc09be2115%20(1).png)
+![](http://img.winterchen.com/20200613210957.png)
 
 安装docker构建插件，在可选插件中查找docker build step plugin
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314203517.png)
+![](http://img.winterchen.com/20200613211017.png)
 
 安装角色管理插件，在可选插件中查找Role-based Authorization Strategy
 ![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314203553.png)
