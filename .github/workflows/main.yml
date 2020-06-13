@@ -18,7 +18,7 @@ jobs:
     
     - name: Setup Hexo env
       env:
-        ACTION_DEPLOY_KEY: ${{ secrets.ACTION_DEPLOY_KEY }}
+        ACTION_DEPLOY_KEY: ${{ secrets.HEXO_DEPLOY_PUB }}
       run: |
         # set up private key for deploy
         mkdir -p ~/.ssh/
