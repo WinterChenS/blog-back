@@ -86,7 +86,7 @@ deploy:
 - type: git
   repo: 
     github: git@github.com:WinterChenS/WinterChenS.github.io.git
-    #coding: git@git.coding.net:winterchen/bolg.git
+    gitee: git@gitee.com:winter_chen/winter_chen.gitee.io.git
   branch: master
 - type: baidu_url_submitter
 
