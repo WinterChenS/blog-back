@@ -7,7 +7,7 @@ tags: [docker,jenkins]
 brief: [jenkins]
 reward: true
 categories: jenkins
-cover: https://images.unsplash.com/photo-1583916832932-a658eeb1199d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1491&q=80
+cover: http://img.winterchen.com/20200613204115.png
 ---
 
 ## 简介
