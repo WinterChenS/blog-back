@@ -2,6 +2,9 @@ name: Deploy Blog
 
 on: [push] # 当有新push时运行
 
+env:
+  TZ: Asia/Shanghai
+
 jobs:
   build: # 一项叫做build的任务
 
