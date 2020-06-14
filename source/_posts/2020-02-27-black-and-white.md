@@ -12,26 +12,26 @@ cover: http://img.winterchen.com/20200613211344.png
 
 疫情还没有过去，宅在家里给老婆孩子拍了一组
 
-![](http://img.winterchen.com/20200613211421.png)
+![](http://img.winterchen.com/202006132114211.png)
 
 
-![](http://img.winterchen.com/20200613211528.png)
+![](http://img.winterchen.com/202006132115281.png)
 
 
-![](http://img.winterchen.com/20200613211616.png)
+![](http://img.winterchen.com/202006132116161.png)
 
-![](http://img.winterchen.com/20200613211737.png)
+![](http://img.winterchen.com/202006132117371.png)
 
-![](http://img.winterchen.com/20200613211824.png)
-
-
-![](http://img.winterchen.com/20200613211914.png)
+![](http://img.winterchen.com/202006132118241.png)
 
 
-![](http://img.winterchen.com/20200613212022.png)
+![](http://img.winterchen.com/202006132119141.png)
 
 
-![](http://img.winterchen.com/20200613212112.png)
+![](http://img.winterchen.com/202006132120221.png)
 
 
-![](http://img.winterchen.com/20200613212306.png)
+![](http://img.winterchen.com/202006132121121.png)
+
+
+![](http://img.winterchen.com/202006132123061.png)
