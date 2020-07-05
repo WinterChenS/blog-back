@@ -4,20 +4,22 @@
 
 Hi！ 你好，我是Luis，专注Java开发，喜欢代码，关注新技术
 
-喜欢摄影，音乐，电影
+喜欢[摄影](https://photo.winterchen.com/)，音乐，电影
 
 
 ### 开源项目
 
 
 * [my-site](https://github.com/WinterChenS/my-site): Java语言开发的博客系统，最新的springboot2.0架构
+* [trace-spring-boot](https://github.com/WinterChenS/trace-spring-boot): 日志链路追踪starter组件
+* [delay-server](https://github.com/WinterChenS/delay-server): 使用RabbitMQ作为延迟任务的公共服务
 * [springboot-learning-experience](https://github.com/WinterChenS/springboot-learning-experience): springboot2.X各种组件的demo
 
 
 
 ### 关于小站
 
-小站搭载 [Hexo](https://hexo.io/) 动力系统，配合 [Diaspora](https://github.com/Fechin/hexo-theme-diaspora) 金属漆，五菱宏光 / 思域见了都得让三分。早在 2017 年我就开始写博客。在CSDN博客写了一些在学习springboot的博文，也帮助过许多新手。
+小站搭载 [Hexo](https://hexo.io/) 动力系统，配合 [Diaspora](https://github.com/Fechin/hexo-theme-diaspora) 金属漆，五菱宏光 / 思域见了都得让三分。早在 2017 年我就开始写博客。在CSDN博客写了一些在学习springboot的博文，也帮助过许多萌新。
 
 偶尔发一些自己的摄影作品，写一些技术博客，坚持原创。为了有良好的阅读体验和心情，我在此承诺，小站不接受任何广告赞助，即使只有我一个用户。
 
@@ -28,8 +30,9 @@ Hi！ 你好，我是Luis，专注Java开发，喜欢代码，关注新技术
 或者邮箱：i@winterchen.com
 
 ### 友链
+
+* [鸿钧](https://bhongjun.com)
 * [唐亚峰的博客](http://blog.battcn.com/)
-* [spring4all社区](http://www.spring4all.com/)
 * [SoulCoder](http://www.soulcoder.tech/)
 
 
