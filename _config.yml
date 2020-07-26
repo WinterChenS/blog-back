@@ -129,7 +129,8 @@ search:
 ## Plugins: http://hexo.io/plugins/
 plugins: hexo-generate-feed
 
-google.verification: dTitiMfahfZxOj276ujQd0t5tahppt2I_7bYbcxtRME
+google:
+  verification: dTitiMfahfZxOj276ujQd0t5tahppt2I_7bYbcxtRME
 
 
 baidu_url_submit:
