@@ -7,10 +7,6 @@
 Hi！ 你好，我是Luis，专注Java开发，喜欢代码，关注新技术
 
 喜欢[摄影](https://photo.winterchen.com/)，音乐，电影
-[![Blog](https://img.shields.io/badge/blog.winterchen-%20-yellow?logo=bloglovin)](https://blog.winterchen.com)
-[![Photos](https://img.shields.io/badge/%20Photography-%20-blue?logo=pivotal-tracker)](https://photo.winterchen.com)
-[![i@winterchen.com](https://img.shields.io/badge/i%40winterchen.com-%20-orange?logo=gmail)](mailto:i@winterchen.com)
-[![Folio](https://img.shields.io/badge/Folio-%20-orange?logo=fandango)](https://folio.winterchen.com)
      
 
 
