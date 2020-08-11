@@ -1,7 +1,12 @@
 name: Deploy Blog
 
-on: [push] # 当有新push时运行
-
+on:
+  push:
+    branches:
+      - master # 代码提交的时候触发构建部署
+  schedule:
+  - cron: "0 2 * * 1-7"  # 定时任务：每周一至周日 早上2点钟
+  
 env:
   TZ: Asia/Shanghai
 
