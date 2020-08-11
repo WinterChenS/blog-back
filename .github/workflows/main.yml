@@ -5,7 +5,7 @@ on:
     branches:
       - master # 代码提交的时候触发构建部署
   schedule:
-  - cron: "0 2 * * 1-7"  # 定时任务：每周一至周日 早上2点钟
+    - cron: "0 14 * * *"  # 定时任务：每天下午14点钟触发
   
 env:
   TZ: Asia/Shanghai
