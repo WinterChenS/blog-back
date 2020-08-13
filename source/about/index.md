@@ -2,15 +2,13 @@
 
 ### 关于我
 
-<a href="https://github.com/WinterChenS"><img align='right' src="https://github-readme-stats.vercel.app/api?username=WinterChenS&show_icons=true"></a>
+<a href="https://github.com/WinterChenS"><img src="https://github-readme-stats.vercel.app/api?username=WinterChenS&show_icons=true"></a>
 
 Hi！ 你好，我是Luis，专注Java开发，喜欢代码，关注新技术
 
 喜欢[摄影](https://photo.winterchen.com/)，音乐，电影
      
 
-
----
 
 ### 开源项目
 
