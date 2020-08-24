@@ -32,7 +32,7 @@ https://stats.winterchen.com
 
 - 以下非截图，为动态网页
 
-<iframe src="https://stats.winterchen.com" width="700px" height="500px" frameborder="0" scrolling="no"> </iframe>
+<iframe src="https://stats.winterchen.com" width="700px" height="700px" frameborder="0" scrolling="no"> </iframe>
 
 顺便分享一个技巧，在markdown中嵌入网页：
 
