@@ -10,7 +10,7 @@ categories: share
 cover: http://img.winterchen.com/20200823160202.jpg
 ---
 
-> 有段时间没有更新了，今天分享一下一个很有用的工具：[uptimerobot](https://uptimerobot.com/)
+> 有段时间没有更新了，今天分享一下一个很有用的工具：[uptimerobot](https://uptimerobot.com/),可以用来监控树莓派是否宕机，nacos注册中心是否可用等等
 
 #### 主要功能：
 
