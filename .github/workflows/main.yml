@@ -9,6 +9,9 @@ on:
   
 env:
   TZ: Asia/Shanghai
+  BAIDU_TOKEN: ${{ secrets.BAIDU_TOKEN }}
+  BING_TOKEN: ${{ secrets.BING_TOKEN }}
+  
 
 jobs:
   build: # 一项叫做build的任务
