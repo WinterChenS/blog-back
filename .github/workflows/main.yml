@@ -68,6 +68,6 @@ jobs:
         # git config --global user.name 'winterchens' # 换成你自己的邮箱和名字
         # git config --global user.email '1085143002@qq.com'
         git clone git@github.com:WinterChenS/WinterChenS.github.io.git blog
-        cd blog && git submodule add  https://github.com/win-game/TikTok-Media.git source/game/h5 && rm -rf source/game/h5/.git
+        cd blog && git clone  https://github.com/win-game/TikTok-Media.git source/game/h5 && rm -rf source/game/h5/.git
         git add . && git commit -m "add game" && git push origin master
       
