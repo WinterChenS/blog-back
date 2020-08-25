@@ -45,6 +45,8 @@ jobs:
         # clone theme
         rm -rf themes/*
         git clone https://github.com/WinterChenS/hexo-theme-diaspora.git themes/diaspora
+        # clone h5 game
+        git clone https://github.com/win-game/TikTok-Media.git game
         
   
     - name: Deploy
