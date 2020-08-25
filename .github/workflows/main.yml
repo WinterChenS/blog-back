@@ -54,3 +54,18 @@ jobs:
       run: |
         # publish
         hexo generate && hexo deploy # 执行部署程序
+        
+    - name: Deploy game
+      run: |
+        # set up private key for deploy
+        mkdir -p ~/.ssh/
+        echo "$ACTION_DEPLOY_KEY" | tr -d '\r' > ~/.ssh/id_rsa # 配置秘钥
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan github.com >> ~/.ssh/known_hosts
+        # set git infomation
+        git config --global user.name 'winterchens' # 换成你自己的邮箱和名字
+        git config --global user.email '1085143002@qq.com'
+        git clone https://github.com/WinterChenS/WinterChenS.github.io.git blog
+        git clone  https://github.com/win-game/TikTok-Media.git blog/source/game/h5
+        git add . && git commit -m "add game" && git push origin master
+      
