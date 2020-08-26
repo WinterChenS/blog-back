@@ -14,7 +14,7 @@ cover: http://img.winterchen.com/20200823160202.jpg
 
 主要类别有：游戏，开发工具，设计工具
 
-后期规划：chrome插件，github开源项目，图片网站等等
+后期规划：chrome插件，github开源项目，图片网站等等，如果有好的资源可以留言告诉博主
 
 网址：[https://tools.winterchen.com](https://tools.winterchen.com)
 
