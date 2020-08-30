@@ -7,7 +7,7 @@ tags: [share]
 brief: [share]
 reward: true
 categories: share
-cover: http://img.winterchen.com/20200823161631.jpg
+cover: http://img.winterchen.com/20200823161149.jpg
 ---
 
 > vercel是什么？
