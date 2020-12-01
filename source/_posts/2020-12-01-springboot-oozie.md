@@ -19,7 +19,7 @@ cover: http://img.winterchen.com/20201201195903.jpg
 
 关于hadoop的集成，请参考另外一篇文章，这里就过多的赘述：
 
-[springboot集成hadoop实战](https://www.notion.so/Copy-of-springboot-hadoop-e5533a28d36b4668b33933c5ae76db85)
+[springboot集成hadoop实战](https://blog.winterchen.com/2020/12/01/2020-12-01-springboot-hadoop-hdfs-mapreduce/)
 
 ## maven坐标
 
