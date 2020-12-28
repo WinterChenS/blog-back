@@ -12,6 +12,8 @@ cover: http://img.winterchen.com/20201228155223.jpg
 
 ![我的家乡](http://img.winterchen.com/20201228155223.jpg)
 
+> 题图：我的家乡，拍摄于2020年初疫情期间
+
 ## maven坐标
 
 ```xml
