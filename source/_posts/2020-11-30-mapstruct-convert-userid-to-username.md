@@ -6,7 +6,7 @@ comments: true
 tags: [mapstruct]
 brief: [share]
 reward: true
-categories: share
+categories: springboot
 cover: http://img.winterchen.com/20201130182732.jpg
 ---
 

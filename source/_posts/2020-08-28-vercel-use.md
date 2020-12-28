@@ -6,7 +6,7 @@ comments: true
 tags: [share]
 brief: [share]
 reward: true
-categories: share
+categories: github
 cover: http://img.winterchen.com/20200823161149.jpg
 ---
 

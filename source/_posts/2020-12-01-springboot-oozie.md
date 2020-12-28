@@ -6,7 +6,7 @@ comments: true
 tags: [hadoop, oozie, springboot]
 brief: [share]
 reward: true
-categories: share
+categories: hadoop
 cover: http://img.winterchen.com/20201201195903.jpg
 ---
 
