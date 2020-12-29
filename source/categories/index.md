@@ -1,4 +1,4 @@
 ---
-title: 相册
-layout: "galleries"
+title: 分类
+layout: "categories"
 ---
