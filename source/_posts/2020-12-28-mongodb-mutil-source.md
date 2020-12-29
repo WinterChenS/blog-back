@@ -2,6 +2,7 @@
 layout: post
 title: mongodb多数据源之mongotemplate和事务的配置
 date: 2020-12-28 15:55
+top: true
 comments: true
 tags: [mongodb, mongotemplate, springboot,transactional]
 brief: [share]
