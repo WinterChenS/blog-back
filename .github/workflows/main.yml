@@ -44,7 +44,7 @@ jobs:
         npm i
         # clone theme
         rm -rf themes/*
-        git clone https://github.com/WinterChenS/hexo-theme-diaspora.git themes/diaspora
+        git clone https://github.com/WinterChenS/hexo-theme-zhaoo.git themes/zhaoo
         # clone h5 game
         git clone https://github.com/win-game/TikTok-Media.git game/h5
         ls -l game/h5
