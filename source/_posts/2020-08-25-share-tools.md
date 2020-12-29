@@ -12,9 +12,6 @@ cover: http://img.winterchen.com/20200823160202.jpg
 image: http://img.winterchen.com/20200823160202.jpg
 ---
 
-![](http://img.winterchen.com/20200823160202.jpg)
-
-题图：拍摄于舟山，壮阔的海洋缥缈的轮船以及夏日的晴空
 
 > 有段时间没有更新了，今天分享一下一个很有用的工具：[uptimerobot](https://uptimerobot.com/),可以用来监控树莓派是否宕机，nacos注册中心是否可用等等
 

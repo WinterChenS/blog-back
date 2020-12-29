@@ -12,9 +12,6 @@ cover: http://img.winterchen.com/20201130182732.jpg
 image: http://img.winterchen.com/20201130182732.jpg
 ---
 
-![](http://img.winterchen.com/20201130182732.jpg)
-
-> 题图：柯达胶片
 
 
 mapstruct的简单用法就不讲了，看完这篇文章能获得什么呢？

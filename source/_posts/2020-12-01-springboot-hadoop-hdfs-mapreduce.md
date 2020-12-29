@@ -12,7 +12,6 @@ cover: http://img.winterchen.com/20201201200228.jpg
 image: http://img.winterchen.com/20201201200228.jpg
 ---
 
-![](http://img.winterchen.com/20201201200228.jpg)
 
 springboot集成hadoop实现hdfs增删改查
 

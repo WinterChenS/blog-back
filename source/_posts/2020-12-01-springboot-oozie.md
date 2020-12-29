@@ -12,7 +12,6 @@ cover: http://img.winterchen.com/20201201195903.jpg
 image: http://img.winterchen.com/20201201195903.jpg
 ---
 
-![](http://img.winterchen.com/20201201195903.jpg)
 
 
 本文将以springboot调用Oozie的API实现workflow和coordinator等任务的提交停止

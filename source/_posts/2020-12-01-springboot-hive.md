@@ -11,9 +11,6 @@ keywords: hadoop, hive, springboot
 cover: http://img.winterchen.com/20201201200202.jpg
 image: http://img.winterchen.com/20201201200202.jpg
 ---
-![](http://img.winterchen.com/20201201200228.jpg)
-
-![](http://img.winterchen.com/20201201200202.jpg)
 
 springboot集成hive实现基本的api调用
 
