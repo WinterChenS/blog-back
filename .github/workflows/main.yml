@@ -39,6 +39,10 @@ jobs:
         # set git infomation
         git config --global user.name 'winterchens' # 换成你自己的邮箱和名字
         git config --global user.email '1085143002@qq.com'
+        
+        # install dependencies
+        npm i -g hexo-cli # 安装hexo
+        npm i
         # 替换 restful插件内容
         git clone https://github.com/WinterChenS/hexo-generator-restful.git hexo-generator-restful
         ls -lF
@@ -69,9 +73,6 @@ jobs:
               }
             });
           };" >  node_modules/hexo-generator-index/lib/generator.js
-        # install dependencies
-        npm i -g hexo-cli # 安装hexo
-        npm i
         # clone theme
         rm -rf themes/*
         git clone https://github.com/WinterChenS/hexo-theme-zhaoo.git themes/zhaoo
