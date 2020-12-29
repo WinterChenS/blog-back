@@ -47,6 +47,7 @@ jobs:
         git clone https://github.com/WinterChenS/hexo-generator-restful.git hexo-generator-restful
         ls -lF
         mv hexo-generator-restful/lib/ node_modules/hexo-generator-restful/lib/
+        cat node_modules/hexo-generator-restful/lib/generator.js
         # 修改置顶模块配置
         echo "'use strict';                                   
           var pagination = require('hexo-pagination');
@@ -73,6 +74,7 @@ jobs:
               }
             });
           };" >  node_modules/hexo-generator-index/lib/generator.js
+        cat node_modules/hexo-generator-index/lib/generator.js
         # clone theme
         rm -rf themes/*
         git clone https://github.com/WinterChenS/hexo-theme-zhaoo.git themes/zhaoo
