@@ -7,7 +7,9 @@ tags: [java,poi]
 brief: "工具类"
 reward: true
 categories: JavaUtils
+keywords: java,poi
 cover: http://img.winterchen.com/john-salzarulo-342868-unsplash.jpg
+image: http://img.winterchen.com/john-salzarulo-342868-unsplash.jpg
 ---
 ![](http://img.winterchen.com/john-salzarulo-342868-unsplash.jpg)
 ### 需求

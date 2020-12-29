@@ -7,7 +7,9 @@ tags: [spring,log4j]
 brief: "记一下"
 reward: true
 categories: spring
+keywords: spring,log4j,java
 cover: http://img.winterchen.com/alex-wong-17993-unsplash.jpg
+image: http://img.winterchen.com/alex-wong-17993-unsplash.jpg
 ---
 
 ![](http://img.winterchen.com/alex-wong-17993-unsplash.jpg)

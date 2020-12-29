@@ -7,7 +7,9 @@ tags: [演讲,提升自我]
 brief: "演讲"
 reward: true
 categories: 演讲
+keywords: 演讲,提升自我
 cover: http://img.winterchen.com/WX20180331-132716@2x.png
+image: http://img.winterchen.com/WX20180331-132716@2x.png
 ---
 ![](http://img.winterchen.com/WX20180331-132716@2x.png)
 什么是即兴演讲？

@@ -7,7 +7,9 @@ tags: [游记]
 brief: "游记"
 reward: true
 categories: 摄影
+keywords: 摄影
 cover: http://img.winterchen.com/DSC_0628.jpg
+image: http://img.winterchen.com/DSC_0628.jpg
 ---
 
 ![](http://img.winterchen.com/DSC_0628.jpg)

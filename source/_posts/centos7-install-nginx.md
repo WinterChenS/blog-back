@@ -7,7 +7,9 @@ tags: [Linux,nginx,centos7]
 brief: "Linux"
 reward: true
 categories: Linux
+keywords: Linux,nginx,centos7
 cover: https://images.unsplash.com/photo-1526740048776-83b7bbf6860d?ixlib=rb-0.3.5&s=61f5e69ba90a009c860fa2d47ce5da3d&auto=format&fit=crop&w=2104&q=80
+image: https://images.unsplash.com/photo-1526740048776-83b7bbf6860d?ixlib=rb-0.3.5&s=61f5e69ba90a009c860fa2d47ce5da3d&auto=format&fit=crop&w=2104&q=80
 ---
 
 

@@ -7,7 +7,9 @@ tags: [hexo,github,github-actions]
 brief: [github-actions]
 reward: true
 categories: github-actions
+keywords: hexo,github,github-actions
 cover: http://img.winterchen.com/billy-williams-8wz1Q41Q_XAg-unsplash.jpg
+image: http://img.winterchen.com/billy-williams-8wz1Q41Q_XAg-unsplash.jpg
 ---
 
 

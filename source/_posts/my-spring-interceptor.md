@@ -7,7 +7,9 @@ tags: [spring]
 brief: "spring"
 reward: true
 categories: spring
+keywords: spring, java
 cover: https://images.unsplash.com/photo-1522199794616-8a62b541f762?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=71b5877630deb9ab5996f91cc61b43f7&auto=format&fit=crop&w=2104&q=80
+image: https://images.unsplash.com/photo-1522199794616-8a62b541f762?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=71b5877630deb9ab5996f91cc61b43f7&auto=format&fit=crop&w=2104&q=80
 ---
 
 

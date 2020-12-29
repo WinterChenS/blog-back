@@ -6,8 +6,10 @@ comments: true
 tags: [随笔]
 brief: "随笔"
 reward: true
+keywords: 随笔
 categories: Spring Boot
 cover: http://img.winterchen.com/upload/2018/08/4b18vihqoghgcqqk4p9eil71ld.jpg
+image: http://img.winterchen.com/upload/2018/08/4b18vihqoghgcqqk4p9eil71ld.jpg
 ---
 
 台风天的向日葵

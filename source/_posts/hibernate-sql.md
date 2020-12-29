@@ -7,7 +7,9 @@ tags: [Hibernate]
 brief: "Hibernate"
 reward: true
 categories: Hibernate
+keywords: Hibernate
 cover: http://img.winterchen.com/alex-6723-unsplash.jpg
+image: http://img.winterchen.com/alex-6723-unsplash.jpg
 ---
 ![](http://img.winterchen.com/alex-6723-unsplash.jpg)
 > 在很多的生产中，hibernate并不能满足我们所有的开发需求，比如，很多表的联合查询，并且查询之后的各种结果封装在自定义的dto对象中，那么我们就需要使用自定义的sql进行查询了，好了，开始我们新的旅程吧。

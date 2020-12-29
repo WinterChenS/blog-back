@@ -7,7 +7,9 @@ tags: [mysql]
 brief: "学习一下"
 reward: true
 categories: mysql
+keywords: mysql
 cover: http://img.winterchen.com/clint-adair-68588-unsplash.jpg
+image: http://img.winterchen.com/clint-adair-68588-unsplash.jpg
 ---
 
 ![](http://img.winterchen.com/clint-adair-68588-unsplash.jpg)

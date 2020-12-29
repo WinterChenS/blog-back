@@ -7,7 +7,9 @@ tags: [Spring Boot,mybatis]
 brief: "Spring Boot"
 reward: true
 categories: Spring Boot
+keywords: springboot,mybatis.java
 cover: http://img.winterchen.com/simon-abrams-286276-unsplash.jpg
+image: http://img.winterchen.com/simon-abrams-286276-unsplash.jpg
 ---
 ![](http://img.winterchen.com/simon-abrams-286276-unsplash.jpg)
 

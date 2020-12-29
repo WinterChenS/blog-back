@@ -6,8 +6,9 @@ comments: true
 tags: [随笔]
 reward: true
 categories: 随笔
+keywords: 随笔
 cover: http://img.winterchen.com/katerina-radvanska-397105-unsplash.jpg
-
+image: http://img.winterchen.com/katerina-radvanska-397105-unsplash.jpg
 ---
 
 

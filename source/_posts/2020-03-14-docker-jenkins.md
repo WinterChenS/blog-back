@@ -7,7 +7,9 @@ tags: [docker,jenkins,DevOps]
 brief: [DevOps]
 reward: true
 categories: DevOps
+keywords: DevOps,docker,jenkins
 cover: http://img.winterchen.com/photo-1556009514-e39e4715fcde.jpeg
+image: http://img.winterchen.com/photo-1556009514-e39e4715fcde.jpeg
 ---
 
 面对微服务越来越繁杂的开发和运维，自动化部署的出现无异于雪中送炭，今天就开始一步一步搭建自动化部署平台，基于Docker。

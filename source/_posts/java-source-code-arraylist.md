@@ -7,7 +7,9 @@ tags: [java源码]
 brief: "java"
 reward: true
 categories: java源码
+keywords: java
 cover: http://img.winterchen.com/maximilian-weisbecker-544039-unsplash.jpg
+image: http://img.winterchen.com/maximilian-weisbecker-544039-unsplash.jpg
 ---
 
 ![](http://img.winterchen.com/maximilian-weisbecker-544039-unsplash.jpg)

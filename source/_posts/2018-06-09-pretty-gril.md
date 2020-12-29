@@ -6,8 +6,10 @@ comments: true
 tags: [随笔]
 brief: "随笔"
 reward: true
+keywords: 随笔
 categories: 随笔
 cover: https://images.unsplash.com/photo-1523364583621-23af08364dc7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=41ac7c82c76e28433baafbb49deeb4e5&auto=format&fit=crop&w=2098&q=80
+image: https://images.unsplash.com/photo-1523364583621-23af08364dc7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=41ac7c82c76e28433baafbb49deeb4e5&auto=format&fit=crop&w=2098&q=80
 ---
 
 

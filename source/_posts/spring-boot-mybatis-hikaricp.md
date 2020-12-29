@@ -7,7 +7,9 @@ tags: [Spring Boot, mybatis, HikariCP]
 brief: "Spring boot 入门"
 reward: true
 categories: Spring Boot
+keywords: springboot,mybatis,hikaricp,java
 cover: http://img.winterchen.com/IMG_2333.jpg
+image: http://img.winterchen.com/IMG_2333.jpg
 ---
 
 ## 前言

@@ -7,7 +7,9 @@ tags: [摄影]
 brief: "摄影"
 reward: true
 categories: 摄影
+keywords: 摄影
 cover: http://img.winterchen.com/DSC_0388.JPG
+image: http://img.winterchen.com/DSC_0388.JPG
 ---
 
 年初的时候去了一次白塔公园，那是樱花盛开的季节，如今已是深秋，这一年已经剩下一个月不到，马上就要做年终总结了，今年的计划是不是完成了呢？

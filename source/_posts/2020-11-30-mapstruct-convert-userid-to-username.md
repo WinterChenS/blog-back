@@ -7,7 +7,9 @@ tags: [mapstruct]
 brief: [share]
 reward: true
 categories: springboot
+keywords: mapstruct
 cover: http://img.winterchen.com/20201130182732.jpg
+image: http://img.winterchen.com/20201130182732.jpg
 ---
 
 ![](http://img.winterchen.com/20201130182732.jpg)

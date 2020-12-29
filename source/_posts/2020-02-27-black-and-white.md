@@ -7,7 +7,9 @@ tags: [摄影,人像]
 brief: [摄影]
 reward: true
 categories: 摄影
+keywords: 摄影
 cover: http://img.winterchen.com/20200613211344.png
+image: http://img.winterchen.com/20200613211344.png
 ---
 
 疫情还没有过去，宅在家里给老婆孩子拍了一组

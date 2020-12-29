@@ -7,7 +7,9 @@ tags: [hadoop, hive, springboot]
 brief: [share]
 reward: true
 categories: hadoop
+keywords: hadoop, hive, springboot
 cover: http://img.winterchen.com/20201201200202.jpg
+image: http://img.winterchen.com/20201201200202.jpg
 ---
 ![](http://img.winterchen.com/20201201200228.jpg)
 

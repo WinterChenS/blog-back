@@ -7,7 +7,9 @@ tags: [share]
 brief: [share]
 reward: true
 categories: share
+keywords: share
 cover: http://img.winterchen.com/20200823160202.jpg
+image: http://img.winterchen.com/20200823160202.jpg
 ---
 
 ![](http://img.winterchen.com/20200823160202.jpg)

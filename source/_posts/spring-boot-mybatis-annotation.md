@@ -7,7 +7,9 @@ tags: [Spring Boot, mybatis]
 brief: "Spring boot 入门"
 reward: true
 categories: Spring Boot
+keywords: springboot, mybatis,java
 cover: http://img.winterchen.com/aleks-dorohovich-26-unsplash.jpg
+image: http://img.winterchen.com/aleks-dorohovich-26-unsplash.jpg
 ---
 
 ![](http://img.winterchen.com/aleks-dorohovich-26-unsplash.jpg)

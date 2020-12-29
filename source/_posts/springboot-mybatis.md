@@ -7,7 +7,9 @@ tags: [Spring Boot,mybatis]
 brief: "学习一下"
 reward: true
 categories: Spring Boot
+keywords: springboot,mybatis,java
 cover: http://img.winterchen.com/fabian-grohs-360566-unsplash.jpg
+image: http://img.winterchen.com/fabian-grohs-360566-unsplash.jpg
 ---
 
 ![](http://img.winterchen.com/fabian-grohs-360566-unsplash.jpg)

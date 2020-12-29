@@ -7,7 +7,9 @@ tags: [摄影]
 brief: "摄影"
 reward: true
 categories: 摄影
+keywords: 摄影
 cover: http://img.winterchen.com/DSC_0319.jpg
+image: http://img.winterchen.com/DSC_0319.jpg
 ---
 
 ![](http://img.winterchen.com/DSC_0319.jpg)

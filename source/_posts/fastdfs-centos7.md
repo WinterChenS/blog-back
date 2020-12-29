@@ -7,7 +7,9 @@ tags: [FastDFS,Linux]
 brief: "FastDFS"
 reward: true
 categories: FastDFS
+keywords: FastDFS,Linux
 cover: http://img.winterchen.com/ornella-binni-224979-unsplash.jpg
+image: http://img.winterchen.com/ornella-binni-224979-unsplash.jpg
 ---
 ![](http://img.winterchen.com/ornella-binni-224979-unsplash.jpg)
 # 一、FastDFS介绍

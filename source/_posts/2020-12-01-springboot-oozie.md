@@ -7,7 +7,9 @@ tags: [hadoop, oozie, springboot]
 brief: [share]
 reward: true
 categories: hadoop
+keywords: hadoop, oozie, springboot
 cover: http://img.winterchen.com/20201201195903.jpg
+image: http://img.winterchen.com/20201201195903.jpg
 ---
 
 ![](http://img.winterchen.com/20201201195903.jpg)

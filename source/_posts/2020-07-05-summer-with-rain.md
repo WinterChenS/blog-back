@@ -7,7 +7,9 @@ tags: [作品]
 brief: [作品]
 reward: true
 categories: 作品
+keywords: 作品
 cover: http://img.winterchen.com/DSC_0016.jpg
+image: http://img.winterchen.com/DSC_0016.jpg
 ---
 
 梅雨季节还没有过去，这个夏天，有那么一段时间没有拍照了，拉来了小模特，拍了几张

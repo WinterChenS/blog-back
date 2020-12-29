@@ -7,7 +7,9 @@ tags: [随笔,三体]
 brief: "随笔"
 reward: true
 categories: 随笔
+keywords: 随笔,三体
 cover: http://img.winterchen.com/c6ss47aaf11c6d97bfadc6e8f665083b3c.jpg
+image: http://img.winterchen.com/c6ss47aaf11c6d97bfadc6e8f665083b3c.jpg
 ---
 
 ![](http://img.winterchen.com/c6ss47aaf11c6d97bfadc6e8f665083b3c.jpg)

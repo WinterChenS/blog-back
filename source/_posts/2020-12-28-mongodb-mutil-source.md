@@ -7,7 +7,9 @@ tags: [mongodb, mongotemplate, springboot,transactional]
 brief: [share]
 reward: true
 categories: mongodb
+keywords: mongodb, mongotemplate, springboot,transactional
 cover: http://img.winterchen.com/20201228155223.jpg
+image: http://img.winterchen.com/20201228155223.jpg
 ---
 
 ![我的家乡](http://img.winterchen.com/20201228155223.jpg)

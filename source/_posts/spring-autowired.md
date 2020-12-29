@@ -7,7 +7,9 @@ tags: [spring]
 brief: "spring"
 reward: true
 categories: spring
+keywords: spring, java
 cover: http://img.winterchen.com/rawpixel-586687-unsplash.jpg
+image: http://img.winterchen.com/rawpixel-586687-unsplash.jpg
 ---
 
 ![](http://img.winterchen.com/rawpixel-586687-unsplash.jpg)

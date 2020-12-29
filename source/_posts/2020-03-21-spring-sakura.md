@@ -7,7 +7,9 @@ tags: [摄影,人像,樱花]
 brief: [摄影]
 reward: true
 categories: 摄影
+keywords: 摄影,人像,樱花
 cover: http://img.winterchen.com/DSC_0016-5.JPG
+image: http://img.winterchen.com/DSC_0016-5.JPG
 ---
 
 如此明媚的夏天，谁想到在修图的时候竟下起了暴风雨甚至夹带着冰雹

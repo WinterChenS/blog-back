@@ -7,7 +7,9 @@ tags: [layui]
 brief: "layui 分页"
 reward: true
 categories: layui
+keywords: layui
 cover: http://img.winterchen.com/ariel-besagar-497027-unsplash.jpg
+image: http://img.winterchen.com/ariel-besagar-497027-unsplash.jpg
 ---
 
 ![](http://img.winterchen.com/ariel-besagar-497027-unsplash.jpg)

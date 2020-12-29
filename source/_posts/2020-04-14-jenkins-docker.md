@@ -7,7 +7,9 @@ tags: [docker,jenkins]
 brief: [jenkins]
 reward: true
 categories: jenkins
+keywords: docker,jenkins
 cover: http://img.winterchen.com/20200613204115.png
+image: http://img.winterchen.com/20200613204115.png
 ---
 
 ## 简介
