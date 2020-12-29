@@ -47,7 +47,8 @@ jobs:
         git clone https://github.com/WinterChenS/hexo-generator-restful.git hexo-generator-restful
         ls -lF
         echo '==========替换之前=========='
-        cat hexo-generator-restful/lib/generator.js
+        cat node_modules/hexo-generator-restful/lib/generator.js
+        rm -f node_modules/hexo-generator-restful/lib/generator.js
         cp -rf hexo-generator-restful/lib/ node_modules/hexo-generator-restful/lib/
         echo '==========替换之后=========='
         cat node_modules/hexo-generator-restful/lib/generator.js
