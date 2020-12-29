@@ -39,9 +39,42 @@ jobs:
         # set git infomation
         git config --global user.name 'winterchens' # 换成你自己的邮箱和名字
         git config --global user.email '1085143002@qq.com'
+        
         # install dependencies
         npm i -g hexo-cli # 安装hexo
         npm i
+        # 替换 restful插件内容
+        git clone https://github.com/WinterChenS/hexo-generator-restful.git hexo-generator-restful
+        ls -lF
+        mv hexo-generator-restful/lib/ node_modules/hexo-generator-restful/lib/
+        cat node_modules/hexo-generator-restful/lib/generator.js
+        # 修改置顶模块配置
+        echo "'use strict';                                   
+          var pagination = require('hexo-pagination');
+          module.exports = function (locals) {
+            var config = this.config;
+            var posts = locals.posts;
+            posts.data = posts.data.sort(function (a, b) {
+              if (a.top && b.top) {
+                if (a.top == b.top) return b.date - a.date;
+                else return b.top - a.top;
+              } else if (a.top && {
+                return -1;
+              } else if (&& b.top) {
+                return 1;
+              } else return b.date - a.date;
+            });
+            var paginationDir = config.pagination_dir || 'page';
+            return pagination('', posts, {
+              perPage: config.index_generator.per_page,
+              layout: ['index', 'archive'],
+              format: paginationDir + '/%d/',
+              data: {
+                __index: true
+              }
+            });
+          };" >  node_modules/hexo-generator-index/lib/generator.js
+        cat node_modules/hexo-generator-index/lib/generator.js
         # clone theme
         rm -rf themes/*
         git clone https://github.com/WinterChenS/hexo-theme-zhaoo.git themes/zhaoo
