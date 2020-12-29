@@ -41,7 +41,7 @@ jobs:
         git config --global user.email '1085143002@qq.com'
         # 替换 restful插件内容
         git clone https://github.com/WinterChenS/hexo-generator-restful.git
-        cp hexo-generator-restful/lib/ node_modules/hexo-generator-restful/lib/
+        cp -r hexo-generator-restful/lib/ node_modules/hexo-generator-restful/lib/
         # 修改置顶模块配置
         echo "'use strict';                                   
           var pagination = require('hexo-pagination');
