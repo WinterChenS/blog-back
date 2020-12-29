@@ -49,7 +49,7 @@ jobs:
         echo '==========替换之前=========='
         cat node_modules/hexo-generator-restful/lib/generator.js
         rm -f node_modules/hexo-generator-restful/lib/generator.js
-        cp -rf hexo-generator-restful/lib/ node_modules/hexo-generator-restful/lib/
+        cp -rf hexo-generator-restful/lib/generator.js node_modules/hexo-generator-restful/lib/generator.js
         echo '==========替换之后=========='
         cat node_modules/hexo-generator-restful/lib/generator.js
         # 修改置顶模块配置
