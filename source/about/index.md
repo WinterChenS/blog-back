@@ -21,7 +21,7 @@ Hi！ 你好，我是Luis，专注Java开发，喜欢代码，关注新技术
 
 ### 关于小站
 
-小站搭载 [Hexo](https://hexo.io/) 动力系统，配合 [Diaspora](https://github.com/Fechin/hexo-theme-diaspora) 金属漆，五菱宏光 / 思域见了都得让三分。早在 2017 年我就开始写博客。在CSDN博客写了一些在学习springboot的博文，也帮助过许多萌新。
+小站搭载 [Hexo](https://hexo.io/) 动力系统，配合 [Zhaoo](https://github.com/izhaoo/hexo-theme-zhaoo) 金属漆，五菱宏光 / 思域见了都得让三分。早在 2017 年我就开始写博客。在CSDN博客写了一些在学习springboot的博文，也帮助过许多萌新。
 
 偶尔发一些自己的摄影作品，写一些技术博客，坚持原创。为了有良好的阅读体验和心情，我在此承诺，小站不接受任何广告赞助，即使只有我一个用户。
 
@@ -33,6 +33,7 @@ Hi！ 你好，我是Luis，专注Java开发，喜欢代码，关注新技术
 
 ### 友链
 
+* [zhaoo's Blog](https://www.izhaoo.com/)
 * [鸿钧](https://bhongjun.com)
 * [唐亚峰的博客](http://blog.battcn.com/)
 * [SoulCoder](http://www.soulcoder.tech/)
@@ -40,3 +41,4 @@ Hi！ 你好，我是Luis，专注Java开发，喜欢代码，关注新技术
 
 ### wechat
 <img src="http://img.winterchen.com/Wechat.jpg" width="200" height="200" alt="WeChat">
+<img src="http://img.winterchen.com/wechar_web_app_qc.jpg" width="200" height="200" alt="本站小程序端">
