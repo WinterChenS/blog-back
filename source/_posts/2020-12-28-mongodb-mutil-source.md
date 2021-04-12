@@ -9,8 +9,8 @@ brief: [share]
 reward: true
 categories: mongodb
 keywords: mongodb, mongotemplate, springboot,transactional
-cover: http://img.winterchen.com/20201228155223.jpg
-image: http://img.winterchen.com/20201228155223.jpg
+cover: https://source.winterchen.com/WinterChenS/imgrpo/master/blog/20210412130724.jpeg
+image: https://source.winterchen.com/WinterChenS/imgrpo/master/blog/20210412130724.jpeg
 ---
 
 

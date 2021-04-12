@@ -15,6 +15,6 @@ image: https://images.unsplash.com/photo-1523364583621-23af08364dc7?ixlib=rb-0.3
 
 18年的高考昨天结束了，六一买下来人生中第一台单反，捣鼓了几天总算知道了一些技巧，于是今天特地到云栖竹径去拍摄并且爬山，在景点门口等车的时候，看到路旁的茶园有一位优雅漂亮并且眼神中有淡淡的忧郁的妹子，按动快门记录了这一刻，不过这个照片都是后期裁剪了的，因为旁边有一个摄影师在给拍照。
 <!-- more -->
-![](http://img.winterchen.com/DSC_0241%202.jpg)
+![](https://source.winterchen.com/WinterChenS/imgrpo/master/blog/20210412111218.jpeg)
 
-![](http://img.winterchen.com/DSC_0242%202.jpg)
+![](https://source.winterchen.com/WinterChenS/imgrpo/master/blog/20210412111313.jpeg)
