@@ -8,8 +8,8 @@ brief: [share]
 reward: true
 categories: hadoop
 keywords: hadoop, hdfs, springboot
-cover: https://source.winterchen.com/WinterChenS/imgrpo/master/blog/20210412130943.jpeg
-image: https://source.winterchen.com/WinterChenS/imgrpo/master/blog/20210412130943.jpeg
+cover: http://img.winterchen.com/20201201200228.jpg
+image: http://img.winterchen.com/20201201200228.jpg
 ---
 
 
