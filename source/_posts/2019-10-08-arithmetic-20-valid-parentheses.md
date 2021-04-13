@@ -8,8 +8,8 @@ brief: [算法]
 reward: true
 categories: 算法
 keywords: 算法
-cover: https://gitee.com/winter_chen/img/raw/master/blog/20210413112931.jpeg
-image: https://gitee.com/winter_chen/img/raw/master/blog/20210413112931.jpeg
+cover: https://raw.githubusercontent.com/WinterChenS/imgrpo/master/fabian-grohs-XMFZqrGyV-Q-unsplash.jpg
+image: https://raw.githubusercontent.com/WinterChenS/imgrpo/master/fabian-grohs-XMFZqrGyV-Q-unsplash.jpg
 ---
 
 ### 题目描述
@@ -60,7 +60,7 @@ image: https://gitee.com/winter_chen/img/raw/master/blog/20210413112931.jpeg
     * 若不为对应的左半边括号，返回false
 
 
-![图解](https://gitee.com/winter_chen/img/raw/master/blog/20210413114847.gif)
+![图解](https://raw.githubusercontent.com/azl397985856/leetcode/master/assets/20.validParentheses.gif)
 
 ### 示例代码
 

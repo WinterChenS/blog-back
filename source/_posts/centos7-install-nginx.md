@@ -13,7 +13,7 @@ image: https://images.unsplash.com/photo-1526740048776-83b7bbf6860d?ixlib=rb-0.3
 ---
 
 
-![](https://gitee.com/winter_chen/img/raw/master/blog/20210413120601.jpeg)
+![](http://img.winterchen.com/ddfc08f6f5a1adfab32e8c2b8a28069f.jpg)
 
 如何在centOS7中安装和配置nginx呢？
 

@@ -8,8 +8,8 @@ brief: [jenkins]
 reward: true
 categories: jenkins
 keywords: docker,jenkins
-cover: https://gitee.com/winter_chen/img/raw/master/blog/20210413115959.png
-image: https://gitee.com/winter_chen/img/raw/master/blog/20210413115959.png
+cover: http://img.winterchen.com/20200613204115.png
+image: http://img.winterchen.com/20200613204115.png
 ---
 
 ## 简介

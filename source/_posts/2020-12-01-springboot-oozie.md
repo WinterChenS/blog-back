@@ -8,8 +8,8 @@ brief: [share]
 reward: true
 categories: hadoop
 keywords: hadoop, oozie, springboot
-cover: https://gitee.com/winter_chen/img/raw/master/blog/20210413115315.jpeg
-image: https://gitee.com/winter_chen/img/raw/master/blog/20210413115315.jpeg
+cover: http://img.winterchen.com/20201201195903.jpg
+image: http://img.winterchen.com/20201201195903.jpg
 ---
 
 

@@ -8,8 +8,8 @@ brief: [raspberry]
 reward: true
 categories: Raspberry
 keywords: docker,raspberry,redis,arm
-cover: https://gitee.com/winter_chen/img/raw/master/blog/20210413120024.png
-image: https://gitee.com/winter_chen/img/raw/master/blog/20210413120024.png
+cover: http://img.winterchen.com/20200613204142.png
+image: http://img.winterchen.com/20200613204142.png
 ---
 
 > 树莓派上运行docker是不同于其他平台，树莓派属于arm32架构，经过前期的踩坑，在树莓派中运行docker镜像需要注意镜像对于doker的支持，在官方镜像搜索页是有系统架构作为删选的，如果需要运行arm32架构的镜像，需要使用对应的版本。

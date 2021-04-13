@@ -8,8 +8,8 @@ brief: [share]
 reward: true
 categories: share
 keywords: share
-cover: https://gitee.com/winter_chen/img/raw/master/blog/20210413115713.jpeg
-image: https://gitee.com/winter_chen/img/raw/master/blog/20210413115713.jpeg
+cover: http://img.winterchen.com/20200823160202.jpg
+image: http://img.winterchen.com/20200823160202.jpg
 ---
 
 
