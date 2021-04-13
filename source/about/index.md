@@ -40,5 +40,5 @@ Hi！ 你好，我是Luis，专注Java开发，喜欢代码，关注新技术
 
 
 ### wechat
-<img src="http://img.winterchen.com/Wechat.jpg" width="200" height="200" alt="WeChat">
-<img src="http://img.winterchen.com/wechar_web_app_qc.jpg" width="200" height="200" alt="本站小程序端">
+<img src="https://gitee.com/winter_chen/img/raw/master/blog/20210413131853.jpeg" width="200" height="200" alt="WeChat">
+<img src="https://gitee.com/winter_chen/img/raw/master/blog/20210413131918.jpeg" width="200" height="200" alt="本站小程序端">
