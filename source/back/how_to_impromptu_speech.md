@@ -8,10 +8,9 @@ brief: "演讲"
 reward: true
 categories: 演讲
 keywords: 演讲,提升自我
-cover: http://img.winterchen.com/WX20180331-132716@2x.png
-image: http://img.winterchen.com/WX20180331-132716@2x.png
+cover: https://gitee.com/winter_chen/img/raw/master/blog/20210413121341.png
+image: https://gitee.com/winter_chen/img/raw/master/blog/20210413121341.png
 ---
-![](http://img.winterchen.com/WX20180331-132716@2x.png)
 什么是即兴演讲？
 <!--  more  -->
 

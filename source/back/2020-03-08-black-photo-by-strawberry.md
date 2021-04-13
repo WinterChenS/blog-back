@@ -8,8 +8,8 @@ brief: [摄影]
 reward: true
 categories: 摄影
 keywords: 摄影
-cover: http://img.winterchen.com/20200613211130-0.png
-image: http://img.winterchen.com/20200613211130-0.png
+cover: https://gitee.com/winter_chen/img/raw/master/blog/20210413115047.png
+image: https://gitee.com/winter_chen/img/raw/master/blog/20210413115047.png
 ---
 
 ![](http://img.winterchen.com/2020061321123111.png)

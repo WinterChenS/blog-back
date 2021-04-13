@@ -8,10 +8,10 @@ brief: "java 读取 mpp文件"
 reward: true
 categories: java
 keywords: java
-cover: http://img.winterchen.com/martin-shreder-349256-unsplash.jpg
-image: http://img.winterchen.com/martin-shreder-349256-unsplash.jpg
+cover: https://gitee.com/winter_chen/img/raw/master/blog/20210413121548.jpeg
+image: https://gitee.com/winter_chen/img/raw/master/blog/20210413121548.jpeg
 ---
-![](http://img.winterchen.com/martin-shreder-349256-unsplash.jpg)
+
 > 最近换工作了，主要的项目都是企业内部为支撑的管理平台，刚入入职没多久，遇到了一个需求，就是导入微软的Project文件，踩过不少坑，所以记录一下，后续还有从数据库导出Project引导文件，也就是xml文件
 <!--  more  -->
 

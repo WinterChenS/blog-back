@@ -8,8 +8,8 @@ brief: [share]
 reward: true
 categories: springboot
 keywords: mapstruct
-cover: http://img.winterchen.com/20201130182732.jpg
-image: http://img.winterchen.com/20201130182732.jpg
+cover: https://gitee.com/winter_chen/img/raw/master/blog/20210413115531.jpeg
+image: https://gitee.com/winter_chen/img/raw/master/blog/20210413115531.jpeg
 ---
 
 

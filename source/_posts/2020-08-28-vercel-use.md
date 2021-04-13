@@ -8,8 +8,8 @@ brief: [share]
 reward: true
 categories: github
 keywords: github
-cover: http://img.winterchen.com/20200823161149.jpg
-image: http://img.winterchen.com/20200823161149.jpg
+cover: https://gitee.com/winter_chen/img/raw/master/blog/20210413115555.jpeg
+image: https://gitee.com/winter_chen/img/raw/master/blog/20210413115555.jpeg
 ---
 
 > vercel是什么？

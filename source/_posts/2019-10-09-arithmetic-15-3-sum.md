@@ -8,8 +8,8 @@ brief: [算法]
 reward: true
 categories: 算法
 keywords: 算法
-cover: http://img.winterchen.com/20200613212353.png
-image: http://img.winterchen.com/20200613212353.png
+cover: https://gitee.com/winter_chen/img/raw/master/blog/20210413114934.jpg
+image: https://gitee.com/winter_chen/img/raw/master/blog/20210413114934.jpg
 ---
 
 ### 题目描述
@@ -36,7 +36,7 @@ image: http://img.winterchen.com/20200613212353.png
 
 通过上面的思路，我们的问题转化为了给定一个数组，找出其中两个相加等于给定值， 这个问题是比较简单的， 我们只需要对数组进行排序，然后双指针解决即可。 加上我们需要外层遍历依次数组，因此总的时间复杂度应该是O(N^2)
 
-![](http://img.winterchen.com/20200613212421.png)
+![](https://gitee.com/winter_chen/img/raw/master/blog/20210413115018.png)
 
 ### 关键
 

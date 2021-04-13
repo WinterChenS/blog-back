@@ -8,10 +8,9 @@ brief: "学习一下"
 reward: true
 categories: java基础
 keywords: java
-cover: http://img.winterchen.com/WX20180328-090749@2x.png
-image: http://img.winterchen.com/WX20180328-090749@2x.png
+cover: https://gitee.com/winter_chen/img/raw/master/blog/20210413121514.png
+image: https://gitee.com/winter_chen/img/raw/master/blog/20210413121514.png
 ---
-![](http://img.winterchen.com/WX20180328-090749@2x.png)
 在java中很优雅的输出helloworld，可以试一试
 <!-- more -->
 ```java

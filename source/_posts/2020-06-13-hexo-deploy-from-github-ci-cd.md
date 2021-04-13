@@ -8,8 +8,8 @@ brief: [github-actions]
 reward: true
 categories: github-actions
 keywords: hexo,github,github-actions
-cover: http://img.winterchen.com/billy-williams-8wz1Q41Q_XAg-unsplash.jpg
-image: http://img.winterchen.com/billy-williams-8wz1Q41Q_XAg-unsplash.jpg
+cover: https://gitee.com/winter_chen/img/raw/master/blog/20210413115748.jpeg
+image: https://gitee.com/winter_chen/img/raw/master/blog/20210413115748.jpeg
 ---
 
 

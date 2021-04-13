@@ -8,10 +8,9 @@ brief: "FastDFS"
 reward: true
 categories: FastDFS
 keywords: FastDFS,Linux
-cover: http://img.winterchen.com/ornella-binni-224979-unsplash.jpg
-image: http://img.winterchen.com/ornella-binni-224979-unsplash.jpg
+cover: https://gitee.com/winter_chen/img/raw/master/blog/20210413120635.jpeg
+image: https://gitee.com/winter_chen/img/raw/master/blog/20210413120635.jpeg
 ---
-![](http://img.winterchen.com/ornella-binni-224979-unsplash.jpg)
 # 一、FastDFS介绍
 开源地址：https://github.com/happyfish100
 参考：[分布式文件系统FastDFS设计原理](http://blog.chinaunix.net/uid-20196318-id-4058561.html)
@@ -29,7 +28,7 @@ FastDFS 系统有三个角色：跟踪服务器(Tracker Server)、存储服务�
 
 　　**Client**：客户端，上传下载数据的服务器，也就是我们自己的项目所部署在的服务器。
 　　
-　　![服务基本架构](http://img.winterchen.com/WX2s0180410-0ss92113@2x.png)
+　　![服务基本架构](https://gitee.com/winter_chen/img/raw/master/blog/20210413120710.png)
 　　
 ## 2、FastDFS的存储策略
 为了支持大容量，存储节点（服务器）采用了分卷（或分组）的组织方式。存储系统由一个或多个卷组成，卷与卷之间的文件是相互独立的，所有卷的文件容量累加就是整个存储系统中的文件容量。一个卷可以由一台或多台存储服务器组成，一个卷下的存储服务器中的文件都是相同的，卷中的多台存储服务器起到了冗余备份和负载均衡的作用。
@@ -45,7 +44,7 @@ Storage Server会定期的向Tracker Server发送自己的存储信息。当Trac
 当Tracker收到客户端上传文件的请求时，会为该文件分配一个可以存储文件的group，当选定了group后就要决定给客户端分配group中的哪一个storage server。当分配好storage server后，客户端向storage发送写文件请求，storage将会为文件分配一个数据存储目录。然后为文件分配一个fileid，最后根据以上的信息生成文件名存储文件。
 
 
-![FastDFS的上传过程](http://img.winterchen.com/WX20180410-092127@2x.png)
+![FastDFS的上传过程](https://gitee.com/winter_chen/img/raw/master/blog/20210413120732.png)
 
 ## 4、FastDFS的文件同步
 写文件时，客户端将文件写至group内一个storage server即认为写文件成功，storage server写完文件后，会由后台线程将文件同步至同group内其他的storage server。
@@ -56,7 +55,7 @@ storage的同步进度会作为元数据的一部分汇报到tracker上，tracke
 
 ## 5、FastDFS的文件下载
 客户端uploadfile成功后，会拿到一个storage生成的文件名，接下来客户端根据这个文件名即可访问到该文件。
-![FastDFS的文件下载过程](http://img.winterchen.com/WX20180410-092140@2x.png)
+![FastDFS的文件下载过程](https://gitee.com/winter_chen/img/raw/master/blog/20210413120749.png)
 
 跟upload file一样，在downloadfile时客户端可以选择任意tracker server。tracker发送download请求给某个tracker，必须带上文件名信息，tracke从文件名中解析出文件的group、大小、创建时间等信息，然后为该请求选择一个storage用来服务读请求。
 
@@ -242,7 +241,7 @@ centos7的防火墙由firewalld进行管理
 # netstat -unltp|grep fdfs
 ```
 
-![](http://img.winterchen.com/WX20180409-192214@2x.png)
+![](https://gitee.com/winter_chen/img/raw/master/blog/20210413120818.png)
 
 关闭Tracker命令：
 
@@ -363,7 +362,7 @@ firewall-cmd --reload
 # netstat -unltp|grep fdfs
 ```
 
-![](http://img.winterchen.com/WX20180409-194149@2x.png)
+![](https://gitee.com/winter_chen/img/raw/master/blog/20210413120843.png)
 
 关闭Storage命令：
 
@@ -377,7 +376,7 @@ firewall-cmd --reload
 /usr/bin/fdfs_monitor /etc/fdfs/storage.conf
 ```
 
-![](http://img.winterchen.com/WX20180409-194421@2x.png)
+![](https://gitee.com/winter_chen/img/raw/master/blog/20210413120902.png)
 
 
 ###  ⑥ 设置 Storage 开机启动
@@ -397,7 +396,7 @@ firewall-cmd --reload
 
 在 store_path0 目录下，创建了N*N个子目录：
 
-![](http://img.winterchen.com/WX20180409-194639@2x.png)
+![](https://gitee.com/winter_chen/img/raw/master/blog/20210413120924.png)
 
 
 ## 5、文件上传测试
@@ -440,11 +439,11 @@ mkdir -p /data/fastdfs/client
  group1/M00/00/00/Cmlg2FrLU9eAVJ-ZAAAejzOgbzU97.conf
  ```
  
-![上传成功](http://img.winterchen.com/WX20180409-195200@2x.png)
+![上传成功](https://gitee.com/winter_chen/img/raw/master/blog/20210413120944.png)
  
  返回的文件ID由group、存储目录、两级子目录、fileid、文件后缀名（由客户端指定，主要用于区分文件类型）拼接而成。
  
- ![](http://img.winterchen.com/1523275193927.jpg)
+ ![](https://gitee.com/winter_chen/img/raw/master/blog/20210413121007.jpeg)
  
 # 三、安装Nginx
 
@@ -539,7 +538,7 @@ Nginx只需要安装到StorageServer所在的服务器即可，用于访问文�
 /usr/local/nginx/sbin/nginx -V
 ```
 
-![](http://img.winterchen.com/WX20180409-200634@2x.png)
+![](https://gitee.com/winter_chen/img/raw/master/blog/20210413121030.png)
 
 ### ⑧ 防火墙中打开Nginx端口（默认的 80） 
 
@@ -571,7 +570,7 @@ location /group1/M00 {
 # /usr/local/nginx/sbin/nginx -s reload
 ```
 
-![](http://img.winterchen.com/WX20180409-201024@2x.png)
+![](https://gitee.com/winter_chen/img/raw/master/blog/20210413121053.png)
 
 ② 在浏览器访问之前上传的图片、成功。
 
@@ -631,7 +630,7 @@ FastDFS 通过 Tracker 服务器，将文件放在 Storage 服务器存储， �
 
 有下面这个就说明添加模块成功
 
-![](http://img.winterchen.com/WX20180411-150859@2x.png)
+![](https://gitee.com/winter_chen/img/raw/master/blog/20210413121123.png)
 
 ### ⑤ 复制 fastdfs-nginx-module 源码中的配置文件到/etc/fdfs 目录， 并修改
 
@@ -692,7 +691,7 @@ location ~/group([0-9])/M00 {
 }
 ```
 
-![](http://img.winterchen.com/WX20180411-150844@2x.png)
+![](https://gitee.com/winter_chen/img/raw/master/blog/20210413121143.png)
 
 **注意：**
 listen 80 端口值是要与 /etc/fdfs/storage.conf 中的 http.server_port=80 (前面改成80了)相对应。如果改成其它端口，则需要统一，同时在防火墙中打开该端口。
@@ -714,7 +713,7 @@ listen 80 端口值是要与 /etc/fdfs/storage.conf 中的 http.server_port=80 (
 
 打印处如下就算配置成功
 
-![](http://img.winterchen.com/WX20180411-151138@2x.png)
+![](https://gitee.com/winter_chen/img/raw/master/blog/20210413121205.png)
 
 ### ⑩ 在地址栏访问
 
@@ -724,8 +723,8 @@ http://118.25.36.41/group1/M00/00/00/Cmlg2FrLU9eAVJ-ZAAAejzOgbzU97.conf
 
  
 
-最终部署结构图(盗的图)：可以按照下面的结构搭建环境。
-![](http://img.winterchen.com/WX20180410-092201@2x.png)
+最终部署结构图(来自网络)：可以按照下面的结构搭建环境。
+![](https://gitee.com/winter_chen/img/raw/master/blog/20210413121227.png))
 
 以上
 

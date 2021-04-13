@@ -8,11 +8,10 @@ brief: "随笔"
 reward: true
 categories: 随笔
 keywords: 随笔,三体
-cover: http://img.winterchen.com/c6ss47aaf11c6d97bfadc6e8f665083b3c.jpg
-image: http://img.winterchen.com/c6ss47aaf11c6d97bfadc6e8f665083b3c.jpg
+cover: https://gitee.com/winter_chen/img/raw/master/blog/20210413120451.jpeg
+image: https://gitee.com/winter_chen/img/raw/master/blog/20210413120451.jpeg
 ---
 
-![](http://img.winterchen.com/c6ss47aaf11c6d97bfadc6e8f665083b3c.jpg)
 
 地铁上发现一件非常巧合的事情，正好读到《三体》中的一个情节，汪淼去杨冬的丈夫丁仪家，两个正在打台球验证科学理论，地铁的显示屏上同时也播放着打台球的画面。
 <!-- more -->
@@ -21,7 +20,7 @@ image: http://img.winterchen.com/c6ss47aaf11c6d97bfadc6e8f665083b3c.jpg
 第二个故事射手讲的是一个射手在一个平面上每隔10厘米就会打个洞，假如平面上生活着一个二维智能生物，那么它得出了一个理论，宇宙每隔十厘米就会出现一个洞。
 这两个故事告诉，我们我们以为的规律/理论，可能并不存在，所以，物理科学并不存在，确实挺可怕的。
 
-![](http://img.winterchen.com/IMG_094ddd8.jpg)
+![](https://gitee.com/winter_chen/img/raw/master/blog/20210413120527.jpeg)
 
 
  杨东生前进行过多次的离子对撞的实验，发现每次的结果都不一样，台球就好比放大版的离子对撞实验，谁也不知道台球会不会在对撞的之后飞向宇宙。
