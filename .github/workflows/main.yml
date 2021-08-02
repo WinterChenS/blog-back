@@ -92,19 +92,19 @@ jobs:
         # publish
         hexo generate && hexo deploy # 执行部署程序
         
-    - name: Deploy game
-      env:
-        ACTION_DEPLOY_KEY: ${{ secrets.HEXO_DEPLOY_PUB }}
-      run: |
-        # set up private key for deploy
-        # mkdir -p ~/.ssh/
-        # echo "$ACTION_DEPLOY_KEY" | tr -d '\r' > ~/.ssh/id_rsa # 配置秘钥
-        # chmod 600 ~/.ssh/id_rsa
-        # ssh-keyscan github.com >> ~/.ssh/known_hosts
-        # set git infomation
-        # git config --global user.name 'winterchens' # 换成你自己的邮箱和名字
-        # git config --global user.email '1085143002@qq.com'
-        git clone git@github.com:WinterChenS/WinterChenS.github.io.git blog
-        cd blog && git clone  https://github.com/win-game/TikTok-Media.git game/h5 && rm -rf game/h5/.git
-        git add . && git commit -m "add game" && git push origin master --force
+    # - name: Deploy game
+    #   env:
+    #     ACTION_DEPLOY_KEY: ${{ secrets.HEXO_DEPLOY_PUB }}
+    #   run: |
+    #     # set up private key for deploy
+    #     # mkdir -p ~/.ssh/
+    #     # echo "$ACTION_DEPLOY_KEY" | tr -d '\r' > ~/.ssh/id_rsa # 配置秘钥
+    #     # chmod 600 ~/.ssh/id_rsa
+    #     # ssh-keyscan github.com >> ~/.ssh/known_hosts
+    #     # set git infomation
+    #     # git config --global user.name 'winterchens' # 换成你自己的邮箱和名字
+    #     # git config --global user.email '1085143002@qq.com'
+    #     git clone git@github.com:WinterChenS/WinterChenS.github.io.git blog
+    #     cd blog && git clone  https://github.com/win-game/TikTok-Media.git game/h5 && rm -rf game/h5/.git
+    #     git add . && git commit -m "add game" && git push origin master --force
       
