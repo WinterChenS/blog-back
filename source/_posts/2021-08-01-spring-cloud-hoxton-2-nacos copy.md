@@ -69,7 +69,7 @@ sh startup.sh -m standalone
 
 - springcloud: Hoxton.RELEASE
 - springboot: 2.2.13.RELEASE
-- springcloud-alibaba: 2.2.6.RELEASE
+- springcloud-alibaba: 2.2.0.RELEASE
 
 ## 配置中心
 
@@ -91,7 +91,7 @@ sh startup.sh -m standalone
         <java.version>1.8</java.version>
         <spring-cloud.version>Hoxton.RELEASE</spring-cloud.version>
         <spring-boot.version>2.2.13.RELEASE</spring-boot.version>
-        <spring-cloud-alibaba.version>2.2.6.RELEASE</spring-cloud-alibaba.version>
+        <spring-cloud-alibaba.version>2.2.0.RELEASE</spring-cloud-alibaba.version>
     </properties>
     <dependencyManagement>
         <dependencies>
