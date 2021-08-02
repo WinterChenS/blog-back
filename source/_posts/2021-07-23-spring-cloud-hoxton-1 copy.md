@@ -73,7 +73,15 @@ Spring Cloud是一系列框架的有序集合。它利用Spring Boot的开发便
 
 当然是查看[官方文档](https://spring.io/projects/spring-cloud)了
 
-[Release train Spring Boot compatibility](https://www.notion.so/b5d2dcb092b443d89347c6c92f8c153f)
+| Release Train                                                                                          | Boot Version                          |
+|--------------------------------------------------------------------------------------------------------|---------------------------------------|
+| https://github.com/spring-cloud/spring-cloud-release/wiki/Spring-Cloud-2020.0-Release-Notes aka Ilford | 2.4.x, 2.5.x (Starting with 2020.0.3) |
+| https://github.com/spring-cloud/spring-cloud-release/wiki/Spring-Cloud-Hoxton-Release-Notes            | 2.2.x, 2.3.x (Starting with SR5)      |
+| https://github.com/spring-projects/spring-cloud/wiki/Spring-Cloud-Greenwich-Release-Notes              | 2.1.x                                 |
+| https://github.com/spring-projects/spring-cloud/wiki/Spring-Cloud-Finchley-Release-Notes               | 2.0.x                                 |
+| https://github.com/spring-projects/spring-cloud/wiki/Spring-Cloud-Edgware-Release-Notes                | 1.5.x                                 |
+| https://github.com/spring-projects/spring-cloud/wiki/Spring-Cloud-Dalston-Release-Notes                | 1.5.x                                 |
+
 
 ![springcloud版本](https://cdn.jsdelivr.net/gh/WinterChenS/imgrpo/blog/20210722155646.png)
 
@@ -83,7 +91,15 @@ Spring Cloud是一系列框架的有序集合。它利用Spring Boot的开发便
 
 springcloud家族有着众多的组件，不可能所有的组件都是我们适用的，需要结合业务选择合适的组件使用，其他的组件可以了解一下，后面的教程会结合目前比较热门的方案进行整合使用，下面的表是比较热门的组件介绍：
 
-[组件的介绍](https://www.notion.so/8562d59086964ac6afe5b7f936887de4)
+| 组件名                                          | 功能               | 简介                          |
+|----------------------------------------------|------------------|-----------------------------|
+| spring-cloud-starter-alibaba-nacos-config    | 配置中心             | 阿里巴巴开源的nacos配置中心，简单易用，稳定可靠。 |
+| spring-cloud-starter-alibaba-nacos-discovery | 服务注册与发现（注册中心）    | 阿里巴巴开源的nacox注册中心，非常稳定，速度快。  |
+| spring-cloud-openfeign                       | 服务远程调用，服务熔断，负载均衡 |                             |
+| spring-cloud-gateway                         | 服务网关             | 负责服务的路由，限流，权限验证，请求过滤        |
+| spring-cloud-starter-alibaba-sentinel        | 服务限流             | 阿里巴巴开源                      |
+| spring-cloud-starter-alibaba-seata           | 分布式事务组件          | 阿里巴巴开源                      |
+
 
 其它的组件后续会继续讲解。
 

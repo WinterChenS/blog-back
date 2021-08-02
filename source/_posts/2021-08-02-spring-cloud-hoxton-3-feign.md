@@ -355,7 +355,16 @@ hystrix:
 
 ### 拓展：hystrix的配置
 
-[线程池配置](https://www.notion.so/36160e14d0be4598b5fb374c982083dd)
+线程池配置
+| Name                                                             | 备注                                                | 默认值   |
+|------------------------------------------------------------------|---------------------------------------------------|-------|
+| hystrix.threadpool.default.coreSize                              | 线程池大小                                             | 10    |
+| hystrix.threadpool.default.maximumSize                           | 线程池最大大小                                           | 10    |
+| hystrix.threadpool.default.allowMaximumSizeToDivergeFromCoreSize | 是否允许动态调整线程数量，默认false，只有设置为true了，上面的maximumSize才有效 | FALSE |
+| hystrix.threadpool.default.keepAliveTimeMinutes                  | 超出coreSize的线程，空闲1分钟后释放掉                           | 1     |
+| hystrix.threadpool.default.maxQueueSize                          | 不能动态修改                                            | -1    |
+| hystrix.threadpool.default.queueSizeRejectionThreshold           | 可以动态修改，默认是5，先进入请求队列，然后再由线程池执行                     | 5     |
+
 
 **如何计算线程池数量？**
 
@@ -383,19 +392,60 @@ hystrix:
 
 每个线程调用服务A一次，耗时60ms，每个线程每秒可以调用服务A一共是16次，100个线程，每秒最多可以调用服务A是1600次，高峰的时候只要支持调用服务A的1200次就可以了，所以这个机器部署就绰绰有余了
 
-[执行配置](https://www.notion.so/3cc39284cfe246ae89f53b486d900363)
+执行配置
+| Name                                                                        | 备注                             | 默认值    |
+|-----------------------------------------------------------------------------|--------------------------------|--------|
+| hystrix.command.default.execution.isolation.strategy                        | 隔离策略，默认Thread，可以选择Semaphore信号量 | Thread |
+| hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds    | 超时时间                           | 1000ms |
+| hystrix.command.default.execution.timeout.enabled                           | 是否启用超时                         | TRUE   |
+| hystrix.command.default.execution.isolation.thread.interruptOnTimeout       | 超时的时候是否中断执行                    | TRUE   |
+| hystrix.command.default.execution.isolation.semaphore.maxConcurrentRequests | 信号量隔离策略下，允许的最大并发请求数量           | 10     |
 
-[降级配置](https://www.notion.so/b7d4e323b8694531abe38d5b47c39659)
 
-[熔断配置](https://www.notion.so/ce5e1ffce1aa42b2a70fcbb5fc79d00b)
+降级配置
+| Name                                     | 备注     | 默认值  |
+|------------------------------------------|--------|------|
+| hystrix.command.default.fallback.enabled | 是否启用降级 | TRUE |
 
-[监控配置](https://www.notion.so/8039578387e94b02924d134833bd044b)
+
+熔断配置
+| Name                                                             | 备注                                              | 默认值  |
+|------------------------------------------------------------------|-------------------------------------------------|------|
+| hystrix.command.default.circuitBreaker.enabled                   | 是否启用熔断器                                         | TRUE |
+| hystrix.command.default.circuitBreaker.requestVolumeThreshold    | 10秒钟内，请求数量达到多少才能去尝试触发熔断                         | 20   |
+| hystrix.command.default.circuitBreaker.errorThresholdPercentage  | 10秒钟内，请求数量达到20，同时异常比例达到50%，就会触发熔断               | 50   |
+| hystrix.command.default.circuitBreaker.sleepWindowInMilliseconds | 触发熔断之后，5s内直接拒绝请求，走降级逻辑，5s后尝试half-open放过少量流量试着恢复 | 5000 |
+| hystrix.command.default.circuitBreaker.forceOpen                 | 强制打开熔断器                                         |      |
+| hystrix.command.default.circuitBreaker.forceClosed               | 强制关闭熔断器                                         |      |
+
+
+监控配置
+| Name                                                                  | 备注                                                                                                                                                        | 默认值           |
+|-----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
+| hystrix.threadpool.default.metrics.rollingStats.timeInMillisecond     | 线程池统计指标的时间                                                                                                                                                | 默认10000，就是10s |
+| hystrix.threadpool.default.metrics.rollingStats.numBuckets            | 将rolling window划分为n个buckets                                                                                                                               | 10            |
+| hystrix.command.default.metrics.rollingStats.timeInMilliseconds       | command的统计时间，熔断器是否打开会根据1个rolling window的统计来计算。若rolling window被设为10000毫秒，则rolling window会被分成n个buckets，每个bucket包含success，failure，timeout，rejection的次数的统计信息。 | 10000         |
+| hystrix.command.default.metrics.rollingStats.numBuckets               | 设置一个rolling window被划分的数量，若numBuckets＝10，rolling window＝10000，那么一个bucket的时间即1秒。必须符合rolling window % numberBuckets == 0                                     | 10            |
+| hystrix.command.default.metrics.rollingPercentile.enabled             |  执行时是否enable指标的计算和跟踪                                                                                                                                      | TRUE          |
+| hystrix.command.default.metrics.rollingPercentile.timeInMilliseconds  | 设置rolling percentile window的时间                                                                                                                            | 60000         |
+| hystrix.command.default.metrics.rollingPercentile.numBuckets          | 设置rolling percentile window的numberBuckets。逻辑同上。                                                                                                           | 6             |
+| hystrix.command.default.metrics.rollingPercentile.bucketSize          | 如果bucket size＝100，window＝10s，若这10s里有500次执行，只有最后100次执行会被统计到bucket里去。增加该值会增加内存开销以及排序的开销。                                                                    | 100           |
+| hystrix.command.default.metrics.healthSnapshot.intervalInMilliseconds | 记录health 快照（用来统计成功和错误绿）的间隔                                                                                                                                | 500ms         |
+
 
  
 
  
 
-[高阶特性配置](https://www.notion.so/9e7efd6a01294c259e908cd6a9a9aae9)
+高阶特性配置
+| Name                                               | 备注                                                               | 默认值               |
+|----------------------------------------------------|------------------------------------------------------------------|-------------------|
+| hystrix.command.default.requestCache.enabled       | 是否启用请求缓存                                                         | TRUE              |
+| hystrix.command.default.requestLog.enabled         | 记录日志到HystrixRequestLog                                           | TRUE              |
+| hystrix.collapser.default.maxRequestsInBatch       | 单次批处理的最大请求数，达到该数量触发批处理                                           | Integer.MAX_VALUE |
+| hystrix.collapser.default.timerDelayInMilliseconds | 触发批处理的延迟，也可以为创建批处理的时间＋该值                                         | 10                |
+| hystrix.collapser.default.requestCache.enabled     | 是否对HystrixCollapser.execute() and HystrixCollapser.queue()的cache | TRUE              |
+
 
 **Feign和Hystrix结合的原理**
 
