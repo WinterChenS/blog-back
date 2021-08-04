@@ -27,6 +27,6 @@ image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046577569130.jpg
 
 ![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046584582177.jpg)
 
-![](http://img.winterchen.com/DSC_0065-编辑-17.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/imgrpo/blog/20210804112356.jpeg)
 
 
