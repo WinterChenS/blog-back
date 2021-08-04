@@ -8,8 +8,8 @@ brief: "Spring boot 入门"
 reward: true
 categories: Spring Boot
 keywords: springboot,mybatis,hikaricp,java
-cover: http://img.winterchen.com/IMG_2333.jpg
-image: http://img.winterchen.com/IMG_2333.jpg
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039845.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039846.jpg
 ---
 
 ## 前言

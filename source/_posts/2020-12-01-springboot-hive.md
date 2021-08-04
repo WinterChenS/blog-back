@@ -8,8 +8,8 @@ brief: [share]
 reward: true
 categories: hadoop
 keywords: hadoop, hive, springboot
-cover: http://img.winterchen.com/20201201200202.jpg
-image: http://img.winterchen.com/20201201200202.jpg
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039821.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039822.jpg
 ---
 
 springboot集成hive实现基本的api调用

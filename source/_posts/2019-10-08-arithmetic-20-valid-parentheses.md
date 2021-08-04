@@ -8,8 +8,8 @@ brief: [算法]
 reward: true
 categories: 算法
 keywords: 算法
-cover: https://raw.githubusercontent.com/WinterChenS/imgrpo/master/fabian-grohs-XMFZqrGyV-Q-unsplash.jpg
-image: https://raw.githubusercontent.com/WinterChenS/imgrpo/master/fabian-grohs-XMFZqrGyV-Q-unsplash.jpg
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039786.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039788.jpg
 ---
 
 ### 题目描述

@@ -8,10 +8,10 @@ brief: "工具类"
 reward: true
 categories: JavaUtils
 keywords: java,poi
-cover: http://img.winterchen.com/john-salzarulo-342868-unsplash.jpg
-image: http://img.winterchen.com/john-salzarulo-342868-unsplash.jpg
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039839.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039839.jpg
 ---
-![](http://img.winterchen.com/john-salzarulo-342868-unsplash.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039839.jpg)
 ### 需求
 **后台生成周报月报季报年报Excel，将文件下载链接推送给对应客户**
 <!--  more  -->

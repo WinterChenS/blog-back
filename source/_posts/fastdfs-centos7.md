@@ -8,10 +8,10 @@ brief: "FastDFS"
 reward: true
 categories: FastDFS
 keywords: FastDFS,Linux
-cover: http://img.winterchen.com/ornella-binni-224979-unsplash.jpg
-image: http://img.winterchen.com/ornella-binni-224979-unsplash.jpg
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039836.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039837.jpg
 ---
-![](http://img.winterchen.com/ornella-binni-224979-unsplash.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039837.jpg)
 # 一、FastDFS介绍
 开源地址：https://github.com/happyfish100
 参考：[分布式文件系统FastDFS设计原理](http://blog.chinaunix.net/uid-20196318-id-4058561.html)
@@ -444,7 +444,7 @@ mkdir -p /data/fastdfs/client
  
  返回的文件ID由group、存储目录、两级子目录、fileid、文件后缀名（由客户端指定，主要用于区分文件类型）拼接而成。
  
- ![](http://img.winterchen.com/1523275193927.jpg)
+ ![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039837.jpg)
  
 # 三、安装Nginx
 

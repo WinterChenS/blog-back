@@ -8,10 +8,10 @@ brief: "Spring Boot"
 reward: true
 categories: Spring Boot
 keywords: springboot,mybatis.java
-cover: http://img.winterchen.com/simon-abrams-286276-unsplash.jpg
-image: http://img.winterchen.com/simon-abrams-286276-unsplash.jpg
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039847.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039847.jpg
 ---
-![](http://img.winterchen.com/simon-abrams-286276-unsplash.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039847.jpg)
 
 
 
@@ -696,7 +696,7 @@ public class UserController {
 如果遇到问题可以加我wechat：
 
 
-<img src="http://img.winterchen.com/Wechat.jpg" width = "200" height = "200" alt="wechat"/>
+<img src="https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039847.jpg" width = "200" height = "200" alt="wechat"/>
 
 
 

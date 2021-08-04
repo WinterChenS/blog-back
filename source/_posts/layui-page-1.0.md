@@ -8,12 +8,12 @@ brief: "layui 分页"
 reward: true
 categories: layui
 keywords: layui
-cover: http://img.winterchen.com/carles-rabada-580573-unsplash.jpg
-image: http://img.winterchen.com/carles-rabada-580573-unsplash.jpg
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039842.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039842.jpg
 ---
 
 
-![](http://img.winterchen.com/carles-rabada-580573-unsplash.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039843.jpg)
 ### 注意
 **使用的layui版本为：layui-v1.0.9，现在新版本已经2.X了有些属性改变了，如果你的版本是2.0以上请参照我的博客：[《 layui完美分页，ajax请求分页（真分页） 【2.0版本】》](https://winterchens.github.io/2017/10/25/layui-page-2.0/)**
 <!--  more  -->

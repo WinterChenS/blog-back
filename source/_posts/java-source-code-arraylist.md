@@ -8,11 +8,11 @@ brief: "java"
 reward: true
 categories: java源码
 keywords: java
-cover: http://img.winterchen.com/maximilian-weisbecker-544039-unsplash.jpg
-image: http://img.winterchen.com/maximilian-weisbecker-544039-unsplash.jpg
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039841.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039841.jpg
 ---
 
-![](http://img.winterchen.com/maximilian-weisbecker-544039-unsplash.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039841.jpg)
 
 >  技术在学习中成长，源码的世界没有你想象的那么复杂
 <!-- more -->

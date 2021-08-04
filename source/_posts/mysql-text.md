@@ -8,11 +8,11 @@ brief: "学习一下"
 reward: true
 categories: mysql
 keywords: mysql
-cover: http://img.winterchen.com/clint-adair-68588-unsplash.jpg
-image: http://img.winterchen.com/clint-adair-68588-unsplash.jpg
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039845.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039845.jpg
 ---
 
-![](http://img.winterchen.com/clint-adair-68588-unsplash.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039845.jpg)
 主要的原因是因为max_sort_length的默认值为1024,=
 解决办法：该参数是动态参数，任何客户端都可以在Mysql数据库运行时更改该参数的值，例如：
 1.首先应该查询一下这个参数的默认值为多少
