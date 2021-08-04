@@ -7,12 +7,12 @@ tags: [随笔]
 reward: true
 categories: 随笔
 keywords: 随笔
-cover: http://img.winterchen.com/katerina-radvanska-397105-unsplash.jpg
-image: http://img.winterchen.com/katerina-radvanska-397105-unsplash.jpg
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046784462195.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046785081661.jpg
 ---
 
 
-![](http://img.winterchen.com/katerina-radvanska-397105-unsplash.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046785303203.jpg)
 2018年，第一批90后正式跨入28岁。
 
 90后出道早，10年前江湖就有他们风光无限的身影。但按照教育时间表，大多数90后，一年不耽误地读完硕士，现在也不过是刚刚走向社会，参加工作第三年，具有自主意识和自由选择的人生刚刚开始。

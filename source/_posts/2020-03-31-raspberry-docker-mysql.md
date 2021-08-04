@@ -8,8 +8,8 @@ brief: [raspberry]
 reward: true
 keywords: docker,raspberry,mysql,arm
 categories: Raspberry
-cover: http://img.winterchen.com/20200613204208.png
-image: http://img.winterchen.com/20200613204208.png
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046443136295.png
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046443720062.png
 ---
 
 > 树莓派上运行docker是不同于其他平台，树莓派属于arm32架构，经过前期的踩坑，在树莓派中运行docker镜像需要注意镜像对于doker的支持，在官方镜像搜索页是有系统架构作为删选的，如果需要运行arm32架构的镜像，需要使用对应的版本。

@@ -8,13 +8,13 @@ brief: [DevOps]
 reward: true
 categories: DevOps
 keywords: DevOps,docker,jenkins
-cover: http://img.winterchen.com/photo-1556009514-e39e4715fcde.jpeg
-image: http://img.winterchen.com/photo-1556009514-e39e4715fcde.jpeg
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046501702598.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046501964314.jpg
 ---
 
 面对微服务越来越繁杂的开发和运维，自动化部署的出现无异于雪中送炭，今天就开始一步一步搭建自动化部署平台，基于Docker。
 
-![jenkins持续交付流程图](http://img.winterchen.com/20200613210704.png)
+![jenkins持续交付流程图](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046408408030.png)
 
 
 本次搭建的前提；
@@ -97,7 +97,7 @@ docker run --name devops-registry -p 5000:5000 -v /opt/devdata/registry:/var/lib
 
 启动完jenkins后通过浏览器输入地址http://部署jenkins主机IP:端口
 
-![](http://img.winterchen.com/20200613210733.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046408678823.png)
 
 根据提示从输入administrator password 或者可以通过启动日志
 
@@ -107,31 +107,31 @@ docker logs devops-jenkins
 
 查看这个password 如：
 
-![](http://img.winterchen.com/20200613210753.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046408898636.png)
 
 选择安装插件方式，这里我是默认第一个
 
-![](http://img.winterchen.com/20200613210813.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046409275829.png)
 
 进入插件安装界面，连网等待插件安装
 
-![](http://img.winterchen.com/20200613210832.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046409588027.png)
 
 安装完插件后，进入创建管理员界面
 
-![](http://img.winterchen.com/20200613210851.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046409917349.png)
 
 输入完管理员账号后，点击continue as admin 进入管理界面点击系统管理-插件管理中安装docker构建插件和角色管理插件
-![](http://img.winterchen.com/20200613210957.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046410087986.png)
 
 安装docker构建插件，在可选插件中查找docker build step plugin
-![](http://img.winterchen.com/20200613211017.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046410493996.png)
 
 安装角色管理插件，在可选插件中查找Role-based Authorization Strategy
 ![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314203553.png)
 
 安装SSH插件，用于构建成功后执行远端服务器脚本从docker本地仓库获取镜像后发布新版本
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314203620.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046410824216.png)
 
 安装 Email Extension Plugin 插件，配置自动发送邮件
 ![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314203648.png)
@@ -142,23 +142,23 @@ docker logs devops-jenkins
 
 点击系统管理->Global Tool Configuration->找到jdk点击新增按钮(自动安装请先到Oracle注册账号)
 
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314203733.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046412428029.png)
 
 配置git
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314211249.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046414103980.png)
 
 点击系统管理->Global Tool Configuration->找到maven点击新增按钮
 
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314203755.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046415092796.png)
 
 点击系统管理->系统设置
 配置SSH
 
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314203926.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046416035927.png)
 
 配置docker
 
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314204005.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046417017947.png)
 
 设置docker主机可以被远程访问
 
@@ -185,13 +185,13 @@ docker container start <container Id>
 
 配置邮件
 
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314204050.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046417809495.png)
 
 ## jenkins权限
 
 1. 选择系统管理->Configuration Global Security（全局安全设置）->进入选择启用安全：
    TCP port for JNLP agents ->禁用，访问控制-安全域->jenkins专有用户数据库，访问控制-授权策略->Role-Based Strategy 如：
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314204232.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046418750899.png)
 
 2. 选择系统管理->Manage and Assign Roles->Manage Roles：
 
@@ -203,41 +203,41 @@ docker container start <container Id>
 
 * 添加project Roles(dmp-manager、dmp-view、tsc-manager、tsc-view)并且给添加的角色分配如下权限
 
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314204349.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046419889709.png)
 
 * 注意：在添加project Roles时，如果想让不同的用户看到不同的job,必须设置Pattern,如上dmp_manager角色就只能查看以dmp开头的job,Pattern规则必须是“dmp.”，注意是以“.”结尾的匹配规则，tsc亦是如此。
 
 3. 选择系统管理->管理用户:新建几个管理员用户如：dmpadmin、tscadmin
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314204435.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046421301054.png)
 
 4. 选择系统管理->Manage and Assign Roles->Assign Relos:把第三步的用户加到user/group中并授于对应的角色权限 如：
 
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314204502.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046422244534.png)
 
 ## 创建-编译-打包-上传docker镜像任务-执行远端脚本从私有仓库获取镜像发布新版本-发布完成发送邮件推送
 
 ### 新建任务
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314204615.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046424059702.png)
 
 ### 源码管理
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314204729.png)
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314204820.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046425340162.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046426402092.png)
 
 ### 构建触发器
 如果没有此项，请安装该插件 Generic Webhook Trigger
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314205034.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046427561198.png)
 
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314205637.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046429360706.png)
 
 #### github创建webhook
 
 http://用户名:webToken@Jenkins服务器地址:端口/generic-webhook-trigger/invoke
 如http://admin:dsfadfadsfaf@192.168.1.1:8080/generic-webhook-trigger/invoke
 
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314205142.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046430488461.png)
 点击添加webhook
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314205227.png)
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200315114955.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046431727234.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046433423372.png)
 图中的token和上面构建触发器中填写的token是一致的，如果都没有构建器中没有填写，那么这边可以不用添加
 
 ## 构建
@@ -247,7 +247,7 @@ http://用户名:webToken@Jenkins服务器地址:端口/generic-webhook-trigger/
 3、推送docker镜像
 
 #### maven 构建镜像
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314210251.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046437452675.png)
 ![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314210359.png)
 #### 构建和推送docker镜像
 ![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314210526.png)
@@ -259,7 +259,7 @@ http://用户名:webToken@Jenkins服务器地址:端口/generic-webhook-trigger/
 
 ### 发送邮件推送
 
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314210917.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046438878086.png)
 
 ## 验证构建
 
@@ -267,8 +267,8 @@ http://用户名:webToken@Jenkins服务器地址:端口/generic-webhook-trigger/
 
 点击立即构建
 
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314211006.png)
-![](https://raw.githubusercontent.com/WinterChenS/imgrpo/develop/blog/20200314211041.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046440561047.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046441757809.png)
 
 ## my-site-run.sh
 

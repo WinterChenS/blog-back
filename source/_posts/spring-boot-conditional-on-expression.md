@@ -8,11 +8,11 @@ brief: "spring"
 reward: true
 categories: spring
 keywords: spring, java
-cover: http://img.winterchen.com/alex-holyoake-388536-unsplash.jpg
-image: http://img.winterchen.com/alex-holyoake-388536-unsplash.jpg
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046776933482.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046777237348.jpg
 ---
 
-![](http://img.winterchen.com/alex-holyoake-388536-unsplash.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046777524470.jpg)
 
 
 

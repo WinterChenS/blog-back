@@ -8,18 +8,18 @@ brief: "摄影"
 reward: true
 categories: 摄影
 keywords: 摄影
-cover: http://img.winterchen.com/IMG_1997.JPG
-image: http://img.winterchen.com/IMG_1997.JPG
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046520488228.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046520752083.jpg
 ---
 
-![](http://img.winterchen.com/IMG_1997.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046521010199.jpg)
 ---
-![](http://img.winterchen.com/IMG_1917.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046521266081.jpg)
 ---
-![](http://img.winterchen.com/IMG_1920.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046521681472.jpg)
 ---
-![](http://img.winterchen.com/IMG_1918.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046522324044.jpg)
 ---
-![](http://img.winterchen.com/IMG_1924.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046522939996.jpg)
 
 杭州记忆

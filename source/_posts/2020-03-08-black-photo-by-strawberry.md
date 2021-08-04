@@ -8,11 +8,11 @@ brief: [摄影]
 reward: true
 categories: 摄影
 keywords: 摄影
-cover: http://img.winterchen.com/20200613211130-0.png
-image: http://img.winterchen.com/20200613211130-0.png
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046402002924.png
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046403654959.png
 ---
 
-![](http://img.winterchen.com/2020061321123111.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046405291900.png)
 
-![](http://img.winterchen.com/202006132113011.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046406946784.png)
 

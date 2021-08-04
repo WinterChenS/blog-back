@@ -8,11 +8,11 @@ brief: "Spring boot 入门"
 reward: true
 categories: Spring Boot
 keywords: springboot, mybatis,java
-cover: http://img.winterchen.com/aleks-dorohovich-26-unsplash.jpg
-image: http://img.winterchen.com/aleks-dorohovich-26-unsplash.jpg
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046777765258.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046777967495.jpg
 ---
 
-![](http://img.winterchen.com/aleks-dorohovich-26-unsplash.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046778152150.jpg)
 
 >   之前写过一篇关于springboot 与 mybatis整合的博文，使用了一段时间[spring-data-jpa](http://winterchen.com/2017/11/11/springbootdata2/)，发现那种方式真的是太爽了，mybatis的xml的映射配置总觉得有点麻烦。接口定义和映射离散在不同的文件中，阅读起来不是很方便。于是，准备使用mybatis的注解方式实现映射。如果喜欢xml方式的可以看我之前的博文：[ Spring boot Mybatis 整合（完整版）](http://blog.csdn.net/winter_chen001/article/details/77249029)
 <!--  more  -->

@@ -9,8 +9,8 @@ brief: [share]
 reward: true
 categories: springcloud
 keywords: springcloud
-cover: https://cdn.jsdelivr.net/gh/WinterChenS/imgrpo/blog/20210802103356.jpg
-image: https://cdn.jsdelivr.net/gh/WinterChenS/imgrpo/blog/20210802103356.jpg
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046762910166.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046763540560.jpg
 ---
 
 > 阅读提醒：
@@ -208,7 +208,7 @@ test:
 
 在测试之前需要修改idea的配置，红色方框处勾选之后服务可以启动多个节点
 
-![](https://cdn.jsdelivr.net/gh/WinterChenS/imgrpo/blog/20210731103616.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046456754692.png)
 
 依次启动两个服务，然后修改`spring-cloud-nacos-provider` 的端口配置
 
@@ -219,7 +219,7 @@ server:
 
 然后再次启动`spring-cloud-nacos-provider` 服务，启动后该服务存在两个节点
 
-![](https://cdn.jsdelivr.net/gh/WinterChenS/imgrpo/blog/20210731103633.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046456920605.png)
 
 然后调用：[http://127.0.0.1:16011/nacos/ribbon-test](http://127.0.0.1:16011/nacos/ribbon-test)
 

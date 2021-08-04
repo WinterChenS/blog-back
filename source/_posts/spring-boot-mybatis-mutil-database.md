@@ -13,7 +13,7 @@ image: https://images.unsplash.com/photo-1496737018672-b1a6be2e949c?ixlib=rb-0.3
 ---
 
 
-![多数据源](http://img.winterchen.com/multi-database.png)
+![多数据源](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046463697426.png)
 springboot2.0正式版发布之后，很多的组件集成需要变更了，这次将多数据源的使用踩的坑给大家填一填。当前多数据源的主要为主从库，读写分离，动态切换数据源。使用的技术就是AOP进行dao方法的切面，所以大家的方法名开头都需要按照规范进行编写，如：`get***`、`add***` 等等，
 <!-- more -->
 ## 起步基础
@@ -189,7 +189,7 @@ write: add,create,update,delete,remove,insert
 
 首先在项目的`/src/main/java/com/winterchen/`包下创建`config`包
 
-![创建config包](http://img.winterchen.com/WX20180530-163257@2x.png)
+![创建config包](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046463787428.png)
 
 ### 创建数据源类型的枚举DatabaseType
 
@@ -490,7 +490,7 @@ public class DataSourceAspect {
 
 完整的项目结构了解一下：
 
-![完整项目结构](http://img.winterchen.com/WX20180530-172445@2x.png)
+![完整项目结构](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046463912428.png)
 
 ## 项目启动
 
@@ -506,7 +506,7 @@ public class DataSourceAspect {
 
 添加用户（write）：
 
-![添加用户](http://img.winterchen.com/WX20180530-172930@2x.png)
+![添加用户](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046464083964.png)
 
 日志：
 
@@ -523,7 +523,7 @@ public class DataSourceAspect {
 
 查询用户（read）：
 
-![查询用户](http://img.winterchen.com/WX20180530-172958@2x.png)
+![查询用户](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046464129009.png)
 
 日志：
 

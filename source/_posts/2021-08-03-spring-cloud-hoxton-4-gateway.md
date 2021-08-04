@@ -9,8 +9,8 @@ brief: [share]
 reward: true
 categories: springcloud
 keywords: springcloud
-cover: https://cdn.jsdelivr.net/gh/WinterChenS/imgrpo/blog/20210803092942.jpg
-image: https://cdn.jsdelivr.net/gh/WinterChenS/imgrpo/blog/20210803092942.jpg
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046764401836.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046764668983.jpg
 ---
 
 > **阅读提醒：

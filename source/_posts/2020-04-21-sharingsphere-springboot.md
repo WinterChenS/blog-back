@@ -8,8 +8,8 @@ brief: [sharingsphere]
 reward: true
 categories: sharingsphere
 keywords: sharingsphere,springboot,mybatis-plus
-cover: http://img.winterchen.com/20200613204014.png
-image: http://img.winterchen.com/20200613204014.png
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046446299835.png
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046447745919.png
 ---
 
   > 最近Shardingsphere在Apache Software Foundation 简称ASF 毕业成为Apache顶级项目，也是目前ASF收个分布式数据库中间件项目，未来可期啊，今天我们就搭建一下springboot整合Shardingsphere4.0版本。

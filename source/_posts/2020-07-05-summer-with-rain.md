@@ -8,17 +8,17 @@ brief: [作品]
 reward: true
 categories: 作品
 keywords: 作品
-cover: http://img.winterchen.com/DSC_0016.jpg
-image: http://img.winterchen.com/DSC_0016.jpg
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046722557444.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046722918768.jpg
 ---
 
 梅雨季节还没有过去，这个夏天，有那么一段时间没有拍照了，拉来了小模特，拍了几张
 
-![](http://img.winterchen.com/DSC_0016.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046723289468.jpg)
 
-![](http://img.winterchen.com/DSC_0017.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046723654508.jpg)
 
-![](http://img.winterchen.com/DSC_0022.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046724123957.jpg)
 
 ![](http://img.winterchen.com/DSC_0025-编辑.jpg)
 
@@ -28,31 +28,31 @@ image: http://img.winterchen.com/DSC_0016.jpg
 
 ![](http://img.winterchen.com/DSC_0038-编辑.jpg)
 
-![](http://img.winterchen.com/DSC_0041.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046727258633.jpg)
 
 ![](http://img.winterchen.com/DSC_0047-编辑.jpg)
 
 
-![](http://img.winterchen.com/DSC_0053.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046728278404.jpg)
 
 
-![](http://img.winterchen.com/DSC_0056.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046728818616.jpg)
 
 ![](http://img.winterchen.com/DSC_0063-编辑.jpg)
 
-![](http://img.winterchen.com/DSC_0066.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046729764562.jpg)
 
-![](http://img.winterchen.com/DSC_0067.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046730406720.jpg)
 
 ![](http://img.winterchen.com/DSC_0067的副本.jpg)
 
-![](http://img.winterchen.com/DSC_0068.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046731499985.jpg)
 
-![](http://img.winterchen.com/DSC_0070.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046732095635.jpg)
 
-![](http://img.winterchen.com/DSC_0074.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046732705756.jpg)
 
-![](http://img.winterchen.com/DSC_0074.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046733251120.jpg)
 
 ![](http://img.winterchen.com/DSC_0014-编辑.jpg)
 

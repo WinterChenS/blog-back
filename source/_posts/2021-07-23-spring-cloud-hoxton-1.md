@@ -9,8 +9,8 @@ brief: [share]
 reward: true
 categories: springcloud
 keywords: springcloud
-cover: https://cdn.jsdelivr.net/gh/WinterChenS/imgrpo/blog/20210723164055.jpg
-image: https://cdn.jsdelivr.net/gh/WinterChenS/imgrpo/blog/20210723164055.jpg
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046759529456.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046760324597.jpg
 ---
 
 
@@ -83,7 +83,7 @@ Spring Cloud是一系列框架的有序集合。它利用Spring Boot的开发便
 | https://github.com/spring-projects/spring-cloud/wiki/Spring-Cloud-Dalston-Release-Notes                | 1.5.x                                 |
 
 
-![springcloud版本](https://cdn.jsdelivr.net/gh/WinterChenS/imgrpo/blog/20210722155646.png)
+![springcloud版本](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046454878575.png)
 
 由此可以看出最新的稳定版。
 
@@ -107,7 +107,7 @@ springcloud家族有着众多的组件，不可能所有的组件都是我们适
 
 先看一张技术架构图：
 
-![spring cloud 技术架构图](https://cdn.jsdelivr.net/gh/WinterChenS/imgrpo/blog/20210722155613.png)
+![spring cloud 技术架构图](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046455117574.png)
 
 假设现在有一个请求过来，
 

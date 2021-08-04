@@ -8,10 +8,10 @@ brief: "学习一下"
 reward: true
 categories: java基础
 keywords: java
-cover: http://img.winterchen.com/WX20180328-090749@2x.png
-image: http://img.winterchen.com/WX20180328-090749@2x.png
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046461795136.png
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046462031138.png
 ---
-![](http://img.winterchen.com/WX20180328-090749@2x.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046462268258.png)
 在java中很优雅的输出helloworld，可以试一试
 <!-- more -->
 ```java

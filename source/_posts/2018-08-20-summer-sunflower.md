@@ -8,23 +8,23 @@ brief: "随笔"
 reward: true
 keywords: 随笔
 categories: Spring Boot
-cover: http://img.winterchen.com/upload/2018/08/4b18vihqoghgcqqk4p9eil71ld.jpg
-image: http://img.winterchen.com/upload/2018/08/4b18vihqoghgcqqk4p9eil71ld.jpg
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046640738198.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046642584319.jpg
 ---
 
 台风天的向日葵
 
-![](http://img.winterchen.com/upload/2018/08/4b18vihqoghgcqqk4p9eil71ld.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046644425654.jpg)
 
-![](http://img.winterchen.com/upload/2018/08/ouea87qo68idmrd9aoepmsp6si.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046646280274.jpg)
 
-![](http://img.winterchen.com/upload/2018/08/05gfdajq3gg53qtnb9bdvbmbv6.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046646700905.jpg)
 
-![](http://img.winterchen.com/upload/2018/08/2i2i330t0gjfsqkeal5svanf6u.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046647490901.jpg)
 
-![](http://img.winterchen.com/upload/2018/08/p3s8b3du6ajbap9k1ofilet9rl.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046648249786.jpg)
 
-![](http://img.winterchen.com/upload/2018/08/qlrmchlvo6hl0onlc1gevgqoj7.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046648922345.jpg)
 
-![](http://img.winterchen.com/upload/2018/08/ot6aafandeh5dog08vioj1i9he.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046649741419.jpg)
 

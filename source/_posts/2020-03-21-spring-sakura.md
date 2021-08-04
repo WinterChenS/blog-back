@@ -8,24 +8,24 @@ brief: [摄影]
 reward: true
 categories: 摄影
 keywords: 摄影,人像,樱花
-cover: http://img.winterchen.com/DSC_0016-5.JPG
-image: http://img.winterchen.com/DSC_0016-5.JPG
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046576748609.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046577569130.jpg
 ---
 
 如此明媚的夏天，谁想到在修图的时候竟下起了暴风雨甚至夹带着冰雹
 
-![](http://img.winterchen.com/DSC_0016-5.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046578389278.jpg)
 
-![](http://img.winterchen.com/DSC_0008-3.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046579209318.jpg)
 
-![](http://img.winterchen.com/DSC_0029-6.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046579789376.jpg)
 
 
-![](http://img.winterchen.com/DSC_0045-9.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046582320168.jpg)
 
-![](http://img.winterchen.com/DSC_0050-13.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046583257345.jpg)
 
-![](http://img.winterchen.com/DSC_0063-15.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046584582177.jpg)
 
 ![](http://img.winterchen.com/DSC_0065-编辑-17.JPG)
 

@@ -8,11 +8,11 @@ brief: "学习一下"
 reward: true
 categories: Spring Boot
 keywords: springboot,mybatis,java
-cover: http://img.winterchen.com/fabian-grohs-360566-unsplash.jpg
-image: http://img.winterchen.com/fabian-grohs-360566-unsplash.jpg
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046780373090.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046780594770.jpg
 ---
 
-![](http://img.winterchen.com/fabian-grohs-360566-unsplash.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046780820013.jpg)
 
 **本项目使用的环境：**
 
@@ -29,16 +29,16 @@ image: http://img.winterchen.com/fabian-grohs-360566-unsplash.jpg
 
 **步骤：**
 **1.创建一个springboot项目：**
-![这里写图片描述](http://img.winterchen.com/20180123193308367.png)
+![这里写图片描述](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046464261112.png)
 **2.创建项目的文件结构以及jdk的版本**
-![这里写图片描述](http://img.winterchen.com/20180123193322572.png)
+![这里写图片描述](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046464366644.png)
 **3.选择项目所需要的依赖**
-![这里写图片描述](http://img.winterchen.com/20170816140515008.png)
-![这里写图片描述](http://img.winterchen.com/20170816140558735.png)
+![这里写图片描述](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046464475646.png)
+![这里写图片描述](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046464579648.png)
 然后点击finish
 
 **5.看一下文件的结构：**
-![这里写图片描述](http://img.winterchen.com/20170816140832910.png)
+![这里写图片描述](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046464693133.png)
 
 **6.查看一下pom.xml：**
 
@@ -262,18 +262,18 @@ CREATE TABLE t_user(
 
 * 点击run-Edit Configurations 
 
-![这里写图片描述](http://img.winterchen.com/20170816144245035.png)
+![这里写图片描述](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046464807165.png)
 
 * 添加配置
 	
-![这里写图片描述](http://img.winterchen.com/20170816144723793.png)
+![这里写图片描述](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046464921174.png)
 
 * 运行
-![这里写图片描述](http://img.winterchen.com/20170816144801010.png)
+![这里写图片描述](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046465025562.png)
 
 	最后生成的文件以及结构：
 	
-![这里写图片描述](http://img.winterchen.com/20170816145500163.png)
+![这里写图片描述](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046465055490.png)
 
 **10. 生成的文件**
 
@@ -352,7 +352,7 @@ public class User {
 
 
 对于sql语句这种黄色的背景，真心是看不下去了（解决方案）：
-![这里写图片描述](http://img.winterchen.com/20170816162144297.png)
+![这里写图片描述](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046465130102.png)
 	
 **UserMapper.xml	**
 ```xml
@@ -469,7 +469,7 @@ public class SpringbootMybatisDemoApplication {
 
 **12.到这里所有的搭建工作都完成了，接下来就是测试的工作，没使用junit4进行测试：**
 **首先看一下完成之后的文件的结构：**
-![这里写图片描述](http://img.winterchen.com/20170816155352126.png)
+![这里写图片描述](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046465294088.png)
 
 **现在controller，service层的代码都写好：**
 
@@ -583,13 +583,13 @@ public class UserServiceImpl implements UserService {
 ```
 
 如果强迫症看不下去那个报错：（解决方法）
-![这里写图片描述](http://img.winterchen.com/20170816162144297.png)
+![这里写图片描述](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046465377128.png)
 
 **测试我使用了idea一个很用心的功能。**
 **可以发http请求的插件**：
-![这里写图片描述](http://img.winterchen.com/20170816155644604.png)
+![这里写图片描述](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046466520408.png)
 
-![这里写图片描述](http://img.winterchen.com/20170816155701675.png)
+![这里写图片描述](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046466577040.png)
 
 点击左侧的运行按钮就可以发送请求了；
 如果返回值正确 说明你已经搭建成功了！！

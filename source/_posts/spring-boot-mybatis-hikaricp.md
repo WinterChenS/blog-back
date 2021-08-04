@@ -8,8 +8,8 @@ brief: "Spring boot 入门"
 reward: true
 categories: Spring Boot
 keywords: springboot,mybatis,hikaricp,java
-cover: http://img.winterchen.com/IMG_2333.jpg
-image: http://img.winterchen.com/IMG_2333.jpg
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046778424275.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046778695396.jpg
 ---
 
 ## 前言
@@ -460,7 +460,7 @@ public class SpringBootMybatisHikaricpApplication {
 
 ### 最终项目结构
 
-![目录结构](http://img.winterchen.com/WX20180725-151516@2x.png)
+![目录结构](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046463452426.png)
 
 
 
@@ -491,21 +491,21 @@ public class SpringBootMybatisHikaricpApplication {
 
 ### 添加
 
-![添加](http://img.winterchen.com/WX20180725-142118@2x.png)
+![添加](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046463496426.png)
 
 ### 删除
 
-![删除](http://img.winterchen.com/WX20180725-141938@2x.png)
+![删除](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046463538427.png)
 
 ### 更新
 
-![更新](http://img.winterchen.com/WX20180725-142044@2x.png)
+![更新](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046463575426.png)
 
 
 
 ### 查找
 
-![查找](http://img.winterchen.com/WX20180725-141808@2x.png)
+![查找](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046463616426.png)
 
 
 

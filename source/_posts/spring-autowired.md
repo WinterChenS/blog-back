@@ -8,11 +8,11 @@ brief: "spring"
 reward: true
 categories: spring
 keywords: spring, java
-cover: http://img.winterchen.com/rawpixel-586687-unsplash.jpg
-image: http://img.winterchen.com/rawpixel-586687-unsplash.jpg
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046776398970.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046776553776.jpg
 ---
 
-![](http://img.winterchen.com/rawpixel-586687-unsplash.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046776701619.jpg)
 
 一个问题困扰了我一天，场景是这样的：
 

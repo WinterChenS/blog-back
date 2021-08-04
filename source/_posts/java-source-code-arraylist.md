@@ -8,11 +8,11 @@ brief: "java"
 reward: true
 categories: java源码
 keywords: java
-cover: http://img.winterchen.com/maximilian-weisbecker-544039-unsplash.jpg
-image: http://img.winterchen.com/maximilian-weisbecker-544039-unsplash.jpg
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046773158786.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046773390686.jpg
 ---
 
-![](http://img.winterchen.com/maximilian-weisbecker-544039-unsplash.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046773582634.jpg)
 
 >  技术在学习中成长，源码的世界没有你想象的那么复杂
 <!-- more -->
@@ -26,7 +26,7 @@ image: http://img.winterchen.com/maximilian-weisbecker-544039-unsplash.jpg
 
 要理解`ArrayList`的源码，我们就需要从它的关系开始，`ArrayList`继承了`AbstractList`，实现了`List`接口，我们从UML图可以看出：
 
-![](http://img.winterchen.com/WX20180510-154020@2x.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046462618337.png)
 
 虚线箭头表示实现接口，实线箭头表示继承关系
 

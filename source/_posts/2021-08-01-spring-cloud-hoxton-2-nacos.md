@@ -9,8 +9,8 @@ brief: [share]
 reward: true
 categories: springcloud
 keywords: springcloud
-cover: https://cdn.jsdelivr.net/gh/WinterChenS/imgrpo/blog/20210801131320.jpg
-image: https://cdn.jsdelivr.net/gh/WinterChenS/imgrpo/blog/20210801131320.jpg
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046760997541.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046761982351.jpg
 ---
 
 
@@ -34,7 +34,7 @@ image: https://cdn.jsdelivr.net/gh/WinterChenS/imgrpo/blog/20210801131320.jpg
 
 注册中心可以说是微服务架构中的”通讯录“，它记录了服务和服务地址的映射关系。在分布式架构中，服务会注册到这里，当服务需要调用其它服务时，就这里找到服务的地址，进行调用。
 
-![](https://cdn.jsdelivr.net/gh/WinterChenS/imgrpo/blog/20210731102123.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046455713643.png)
 
 列举一个比较简单的生活例子：
 
@@ -195,7 +195,7 @@ ${prefix}-${spring.profiles.active}.${file-extension}
 
 ### 在nacos配置中心创建配置文件
 
-![](https://cdn.jsdelivr.net/gh/WinterChenS/imgrpo/blog/20210731102301.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046455981185.png)
 
 配置详情：
 
@@ -266,7 +266,7 @@ test:
 
 ## 服务注册与发现
 
-![](https://cdn.jsdelivr.net/gh/WinterChenS/imgrpo/blog/20210731102327.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046456195432.png)
 
 > 仍然使用上面的项目进行
 
@@ -408,7 +408,7 @@ test:
 
 请求的结果：
 
-![](https://cdn.jsdelivr.net/gh/WinterChenS/imgrpo/blog/20210731102354.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046456542050.png)
 
 ## 总结
 

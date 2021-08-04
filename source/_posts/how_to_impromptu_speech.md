@@ -8,10 +8,10 @@ brief: "演讲"
 reward: true
 categories: 演讲
 keywords: 演讲,提升自我
-cover: http://img.winterchen.com/WX20180331-132716@2x.png
-image: http://img.winterchen.com/WX20180331-132716@2x.png
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046459147093.png
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046459911120.png
 ---
-![](http://img.winterchen.com/WX20180331-132716@2x.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046460667070.png)
 什么是即兴演讲？
 <!--  more  -->
 
@@ -20,7 +20,7 @@ image: http://img.winterchen.com/WX20180331-132716@2x.png
 
 
 ## 一. 散 点 联 想 法
-![自信](http://img.winterchen.com/photo-1516383045179-572984151521.jpeg)
+![自信](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046504719752.jpg)
 
 我们先来介绍一种练习即兴演讲的方法。**散点联想法，简单说，就是将几个看似没有关联的、不相干的词语，通过一定的语言表达方式，巧妙的串联起来，组合成一段话，表达一个完整的意思。**
 
@@ -68,7 +68,7 @@ image: http://img.winterchen.com/WX20180331-132716@2x.png
 散点联想法，可以和家人朋友一起练习。如果有孩子，可以和孩子一起练习，既能锻炼孩子的即兴演讲能力，还能促进和孩子的关系。也可以和朋友一起练习，不要让思维受限，可以天马行空的联想。故事越丰富越有血有肉越好。通过一段时间的练习，联想能力和想象能力都会得到提升，即兴演讲的水平也会提高。
 
 ## 二. 问题--原因--解决方案
-![](http://img.winterchen.com/photo-1517245386807-bb43f82c33c4.jpeg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046504870169.jpg)
 
 **针对问题和现象的即兴演讲技巧。**
 一对夫妻商量好了，老婆做饭，老公刷碗。有一天老公没刷碗，于是出现了这样一幕：
@@ -159,7 +159,7 @@ image: http://img.winterchen.com/WX20180331-132716@2x.png
 
 ## 三. 感谢--回顾--愿景
 
-![](http://img.winterchen.com/photo-1513646564457-a62261e23542.jpeg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046505037447.jpg)
 
 **针对各种聚会场合的即兴演讲技巧。**
 
@@ -339,7 +339,7 @@ image: http://img.winterchen.com/WX20180331-132716@2x.png
 
 ## 五. 黄 金 三 点 法
 
-![](http://img.winterchen.com/photo-1513646564457-a62261e23542.jpeg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046505322138.jpg)
 
 前面几篇文章都是在介绍如何更好的做即兴演讲，我们知道：
 

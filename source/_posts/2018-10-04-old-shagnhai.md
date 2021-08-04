@@ -8,35 +8,35 @@ brief: "摄影"
 reward: true
 categories: 摄影
 keywords: 摄影
-cover: http://img.winterchen.com/DSC_0967.JPG
-image: http://img.winterchen.com/DSC_0967.JPG
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046532773208.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046533523109.jpg
 ---
 
-![](http://img.winterchen.com/DSC_0967.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046534278146.jpg)
 ---
 
-![](http://img.winterchen.com/DSC_0996.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046535028684.jpg)
 ---
 
-![](http://img.winterchen.com/DSC_1005.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046535933695.jpg)
 ---
 
-![](http://img.winterchen.com/DSC_1012.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046536907253.jpg)
 ---
 
-![](http://img.winterchen.com/DSC_1013.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046537618078.jpg)
 ---
 
-![](http://img.winterchen.com/DSC_1037.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046538185128.jpg)
 ---
 
-![](http://img.winterchen.com/DSC_1042.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046539394215.jpg)
 ---
 
-![](http://img.winterchen.com/DSC_1043.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046540289606.jpg)
 ---
 
-![](http://img.winterchen.com/DSC_1046.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046540891124.jpg)
 ---
 
-![](http://img.winterchen.com/DSC_1044.JPG)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046541559170.jpg)

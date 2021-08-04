@@ -8,10 +8,10 @@ brief: "Spring Boot"
 reward: true
 categories: Spring Boot
 keywords: springboot,mybatis.java
-cover: http://img.winterchen.com/simon-abrams-286276-unsplash.jpg
-image: http://img.winterchen.com/simon-abrams-286276-unsplash.jpg
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046781299158.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046782543036.jpg
 ---
-![](http://img.winterchen.com/simon-abrams-286276-unsplash.jpg)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046782791380.jpg)
 
 
 
@@ -39,12 +39,12 @@ image: http://img.winterchen.com/simon-abrams-286276-unsplash.jpg
 
 ### 创建项目：
 
-![](http://img.winterchen.com/WX20180419-171728@2x.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046466648928.png)
 
-![](http://img.winterchen.com/WX20180419-172151@2x.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046466698922.png)
 
 添加基础的依赖：
-![](http://img.winterchen.com/WX20180419-172335@2x.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046466739962.png)
 
 
 ### 依赖文件：
@@ -152,7 +152,7 @@ image: http://img.winterchen.com/simon-abrams-286276-unsplash.jpg
 
 ### 项目结构：
 
-![项目结构](http://img.winterchen.com/WX20180419-172817@2x.png)
+![项目结构](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046466825127.png)
 
 #### 项目启动类：
 
@@ -231,7 +231,7 @@ pagehelper:
 ### 创建包：
 ``model``，``dao``，``mapper``,``config``
 
-![](http://img.winterchen.com/WX20180419-193448@2x.png)
+![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046466881978.png)
 
 ### 新建配置类：
 
@@ -663,7 +663,7 @@ public class UserController {
 
 ## 项目最终的结构
 
-![项目结构](http://img.winterchen.com/WX20180420-210845@2x.png)
+![项目结构](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046467097250.png)
 
 > 到这里如果项目就成功搭建完成了，如果还是报错的话，请仔细看看配置，后面会给出源码地址，程序员就是要不断和bug进行斗争，加油。
 
@@ -673,7 +673,7 @@ public class UserController {
 
 启动项目
 
-![启动项目](http://img.winterchen.com/WX20180419-204915@2x.png)
+![启动项目](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046467147252.png)
 
 
 这样就表示启动成功了
@@ -682,12 +682,12 @@ public class UserController {
 
 ### 添加数据
 
-![添加数据](http://img.winterchen.com/WX20180419-205055@2x.png)
+![添加数据](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046467254251.png)
 
 
 ### 查询数据
 
-![查询数据](http://img.winterchen.com/WX20180419-205209@2x.png)
+![查询数据](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046467296252.png)
 
 源码地址：
 
@@ -696,7 +696,7 @@ public class UserController {
 如果遇到问题可以加我wechat：
 
 
-<img src="http://img.winterchen.com/Wechat.jpg" width = "200" height = "200" alt="wechat"/>
+<img src="https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628046784292084.jpg" width = "200" height = "200" alt="wechat"/>
 
 
 
