@@ -8,11 +8,11 @@ brief: "学习一下"
 reward: true
 categories: Spring Boot
 keywords: springboot,mybatis,java
-cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039846.jpg
-image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039846.jpg
+cover: http://img.winterchen.com/fabian-grohs-360566-unsplash.jpg
+image: http://img.winterchen.com/fabian-grohs-360566-unsplash.jpg
 ---
 
-![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039847.jpg)
+![](http://img.winterchen.com/fabian-grohs-360566-unsplash.jpg)
 
 **本项目使用的环境：**
 

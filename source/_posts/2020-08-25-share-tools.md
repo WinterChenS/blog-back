@@ -8,8 +8,8 @@ brief: [share]
 reward: true
 categories: share
 keywords: share
-cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039812.jpg
-image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039812.jpg
+cover: http://img.winterchen.com/20200823160202.jpg
+image: http://img.winterchen.com/20200823160202.jpg
 ---
 
 

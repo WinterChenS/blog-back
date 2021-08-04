@@ -8,11 +8,11 @@ brief: "记一下"
 reward: true
 categories: spring
 keywords: spring,log4j,java
-cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039846.jpg
-image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039846.jpg
+cover: http://img.winterchen.com/alex-wong-17993-unsplash.jpg
+image: http://img.winterchen.com/alex-wong-17993-unsplash.jpg
 ---
 
-![](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039846.jpg)
+![](http://img.winterchen.com/alex-wong-17993-unsplash.jpg)
 第一步：导入log4j-1.2.17.jar包。
 第二步：src同级创建并设置log4j.properties。
 	log4j.properties的详细配置：

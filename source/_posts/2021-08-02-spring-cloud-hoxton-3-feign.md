@@ -9,8 +9,8 @@ brief: [share]
 reward: true
 categories: springcloud
 keywords: springcloud
-cover: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039832.jpg
-image: https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039833.jpg
+cover: https://cdn.jsdelivr.net/gh/WinterChenS/imgrpo/blog/20210802103356.jpg
+image: https://cdn.jsdelivr.net/gh/WinterChenS/imgrpo/blog/20210802103356.jpg
 ---
 
 > 阅读提醒：
@@ -451,7 +451,7 @@ hystrix:
 
 Feign在和Hystrix整合的时候，feign动态代理里面有一些Hystrix相关的代码，请求走feign动态代理的时候，就会基于Hystrix Command发送请求，实现服务间调用的隔离、限流、超时、降级、熔断、统计等。
 
-![https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039833.jpg](https://cdn.jsdelivr.net/gh/WinterChenS/img/posts/1628039833.jpg)
+![http://www.saily.top/img/spring-cloud/Feign%E5%92%8CHystrix%E7%9A%84%E6%A0%B8%E5%BF%83%E5%8E%9F%E7%90%86.jpg](http://www.saily.top/img/spring-cloud/Feign%E5%92%8CHystrix%E7%9A%84%E6%A0%B8%E5%BF%83%E5%8E%9F%E7%90%86.jpg)
 
 ## 总结
 
