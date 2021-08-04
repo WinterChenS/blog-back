@@ -129,6 +129,7 @@ search:
   field: post
   format: html
   limit: 10000
+  content: true
 
 # Extensions
 ## Plugins: http://hexo.io/plugins/
