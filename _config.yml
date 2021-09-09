@@ -187,3 +187,33 @@ restful:
   post: true               # 文章数据
   pages: true             # 额外的 Hexo 页面数据, 如 About
   galleries: true         # 相册数据 
+
+
+bangumi: # 追番设置
+  enable: true
+  path: bangumis/index.html
+  vmid: 3407864
+  title: '追番列表'
+  quote: '生命不息，追番不止！'
+  show: 1
+  loading:
+  metaColor:
+  color:
+  webp: true
+  progress: true
+  extra_options:
+    key: value
+cinema: # 追剧设置
+  enable: true
+  path: cinemas/index.html
+  vmid: 3407864
+  title: '追剧列表'
+  quote: '生命不息，追番不止！'
+  show: 1
+  loading:
+  metaColor:
+  color:
+  webp: true
+  progress: true
+  extra_options:
+    key: value

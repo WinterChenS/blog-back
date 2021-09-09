@@ -90,7 +90,7 @@ jobs:
     - name: Deploy
       run: |
         # publish
-        hexo generate && hexo deploy # 执行部署程序
+        hexo bangumi -u && hexo cinema -u && hexo generate && hexo deploy # 执行部署程序
         
     # - name: Deploy game
     #   env:
