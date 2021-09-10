@@ -4,7 +4,7 @@
 
 Hi！ 你好，我是Luis，专注Java开发，喜欢代码，关注新技术
 
-喜欢[摄影](https://photo.winterchen.com/)，音乐，电影
+喜欢[摄影](https://photo.winterchen.com/)，音乐，[电影](https://blog.winterchen.com/cinemas/)，[番剧](https://blog.winterchen.com/bangumis/)
 
 <a href="https://github.com/WinterChenS"><img src="https://github-readme-stats.vercel.app/api?username=WinterChenS&show_icons=true"></a>     
 
