@@ -31,8 +31,8 @@ skip_render:
   - README.md
   - 404.html
   - "game/h5/**"
-  - "bangumis/**"
-  - "cinemas/**"
+  - "bangumis"
+  - "cinemas"
 
 # Writing
 new_post_name: :title.md # File name of new posts
