@@ -37,6 +37,7 @@ Hi！ 你好，我是Luis，专注Java开发，喜欢代码，关注新技术
 * [鸿钧](https://bhongjun.com)
 * [唐亚峰的博客](http://blog.battcn.com/)
 * [SoulCoder](http://www.soulcoder.tech/)
+* [龙猫](https://codesensi.cn/)
 
 
 ### wechat
