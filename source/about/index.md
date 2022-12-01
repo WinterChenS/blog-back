@@ -27,11 +27,7 @@ Hi！ 你好，我是Luis，专注Java开发，喜欢代码，关注新技术
 
 偶尔发一些自己的摄影作品，写一些技术博客，坚持原创。为了有良好的阅读体验和心情，我在此承诺，小站不接受任何广告赞助，即使只有我一个用户。
 
-### 商务合作
 
-需要商业拍摄或者约拍，欢迎加微信打扰
-
-或者邮箱：i@winterchen.com
 
 ### 友链
 
@@ -42,6 +38,5 @@ Hi！ 你好，我是Luis，专注Java开发，喜欢代码，关注新技术
 * [龙猫](https://codesensi.cn/)
 
 
-### wechat
-<img src="https://cdn.jsdelivr.net/gh/WinterChenS/imgrpo/blog/20210802133518.jpeg" width="200" height="200" alt="WeChat">
+### 小程序
 <img src="https://cdn.jsdelivr.net/gh/WinterChenS/imgrpo/blog/20210802133917.jpeg" width="200" height="200" alt="本站小程序端">
